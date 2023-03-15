@@ -1,0 +1,75 @@
+ar_dizzy_ins
+amber_spirits_coop
+badlands_b1 checkpoint
+badel_coop_2020
+clean_sweep_coop_ws checkpoint
+contact_coop checkpoint
+crash_course
+citadel_coop
+convoy_pve checkpoint
+cs_italy_coop checkpoint
+ins_italy_coop
+de_train
+de_mirage_csco
+de_vertigo_coop checkpoint
+de_centered_v1 checkpoint
+dedust1p2_coop
+drycanal_coop checkpoint
+district_coop checkpoint
+embassy_coop checkpoint
+fortress_coop_ws checkpoint
+facilityb2_coop_v1_1
+ins_arcate_pb1
+inferno_new_v1 checkpoint 
+insz_favela
+ins_tosca_v1 checkpoint
+inferno_checkpoint_b2
+heights_coop checkpoint
+launch_control_coop_ws
+market_coop checkpoint
+ministry_coop checkpoint
+siege_coop checkpoint
+sinjar_coop checkpoint
+station_coop checkpoint
+tell_coop checkpoint
+Tosca assets checkpoint
+verticality_coop checkpoint
+pripyat
+showdown
+//angle_iron_coop_ws checkpoint
+//bunker_busting_coop_ws checkpoint
+//block_party_coop_ws checkpoint
+//bridge_coop_ws checkpoint
+//congress_coop checkpoint
+//crossbow checkpoint
+//cs_downtown_coop checkpoint
+//cs_office_coop_b2 checkpoint
+//cs_workout_v1 checkpoint
+//cs_agency_ins_b2 checkpoint
+//cs_havana_ins_b2
+//cobblestone checkpoint
+//chateau_tunnels_v3
+//doi_landfall
+//doi_bridgeatremagen
+//doi_iron_cross
+//doi_ps7
+//dusty_anguish_coop checkpoint
+//dust_new checkpoint
+//dust2_b4 checkpoint
+//dusty_anguish_coopv1_1
+//dusty_anguish_coopvfix checkpoint
+//jack_hammer_coopvfix checkpoint
+//almaden_b5
+//game_day_coop_ws
+//haditha_dam_coop_finale checkpoint
+//hijacked_ws checkpoint
+//invasion_coop_ws
+//jail_break_coop_ws checkpoint
+//kandagal_aof checkpoint
+//karkand_coop_ws checkpoint
+//khanashin_b8 checkpoint
+//prophet_coop checkpoint
+//the_burbs_coop checkpoint
+//tunnel_rats_coop checkpoint
+//takbar checkpoint
+//tet_b1 checkpoint

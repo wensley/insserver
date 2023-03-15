@@ -1,0 +1,69 @@
+//867788415  // MLF.cn Server Maps Collection Part 1
+//715590287  // mlfcn models Sound Packs, Weapon Skins, Character Skins
+//715591115  // mlfcn custom theater v8.5
+859127166 // The Armory - Expanded - 35 Angry Bots
+//1670566651   // ProRussian Servers Coop V3
+530079601    // vote screen v84投票缩略图 91.437 MB
+2487577841   // violent-gore blood
+711329337    // Liquified Blood Splatter
+2575293565   // ar_dizzy_ins  185.790 MB
+498253639    // amber_spirits_coop 69.215 MB
+532461305    // badlands_b1   aof 114.450 MB
+2240929834    // badel_coop_2020.bsp 223.363 MB
+498255733    // clean_sweep_coop_ws 55.228 MB
+1207457291   // cs_italy_coop checkpoint 167.856 MB
+2265996024   // ins_italy_coop open 149.226 MB
+1469832785   // cs_office_coop_b2  192MB
+2510398645   // crash_course 195.210 MB
+2361038040    // citadel_coop 63.556 MB
+2352663377    // convoy_pve checkpoint 105.816 MB
+1734873741   // de_mirage_csco
+1388155777   // dedust1p2_coop
+1743348046   // de_train_csgo_pb2/map de_train 423MB
+1202839339   // de_vertigo_coop checkpoint建筑工地
+2148192104   // inferno_new_v1 checkpoint 277.502 MB
+1905422214   // insz_favela
+2010282416   // ins_tosca_v1 checkpoint 201.743 MB
+603342622     // inferno_checkpoint_b2 125.846 MB
+1908949684    // ins_arcate_pb1 64.276 MB
+498257082    // fortress_coop_ws
+1482148634    // facilityb2_coop_v1_1 94.965 MB图有点黑
+292081732    // launch_control_coop_ws地堡
+2035514246   // pripyat 182.345 MB
+890747795     // showdown  117.628 MB
+2010310686   // Tosca assets
+//334967466    // Bridge_coop_ws
+//2208434069   // cobblestone checkpoint 320.350 MB
+//2607893228   // cs_havana_ins_b2 不确定能否玩
+//797028573    // congress_coop  aof 129.642 MB
+//605055192    // crossbow  aof 图有点黑
+//1568832749   // cs_downtown_coop  162.549 MB
+//815189600    // cs_workout_v1 checkpoint 261.098 MB
+//2575299248   // cs_agency_ins_b2 checkpoint 215.120 MB
+//1380554985   // dusty_anguish_coopfix
+//2191010494   // dust_new checkpoint  459.156 MB
+//498252536    // invasion_coop_ws海滩登陆
+//2168078889   // de_centered_v1 
+//2168116352   // de_centered assets 
+//393352418    // karkand_coop_ws
+//383525894    // khanashin_b8
+//2010242125   // kandagal_aof (checkpoint)
+//1380562255   // jack_hammer_coopvfix checkpoint
+//939875998    // prophet_coop checkpoint
+//346843105    // the_burbs_coop不好玩
+//1722833808   // tet_b1 checkpoint
+//814433362    // takbar checkpoint图黑
+//284971476    // tunnel_rats_coop_ws图黑
+//292080383    // jail_break_coop_ws图黑
+//335578709    // Hijacked Final Workshop Version - (hijacked_ws)图黑
+//1115534556   // haditha_dam_coop_finale大坝图不好玩
+//352149578    // game_day_coop_ws图黑
+//283122727    // dusty_anguish_coopv1_1
+//672667761    // chateau_tunnels_v3图黑
+//318205420    // block_party_coop_ws图黑
+//604418860    // Day of Infamy
+//643884052    // doi_metz
+//283120201    // bunker_busting_coop_ws 图黑
+//352148389    // angle_iron_coop_ws图黑
+//334967466    // Baghdad Crossing Final Workshop Version - (bridge_coop_ws)
+//1100976090   // operation_intrude_v2太黑
