@@ -1,0 +1,282 @@
+﻿"Phrases"
+{
+	////////////////////////////////////////////////////////////////////////////////
+	// Class names.
+	////////////////////////////////////////////////////////////////////////////////
+	"breacher"
+	{
+		"de"	"Breacher"
+	}
+	"rifleman"
+	{
+		"de"	"Rifleman"
+	}
+	"scavenger"
+	{
+		"de"	"Scavenger"
+	}
+	"marksman"
+	{
+		"de"	"Marksman"
+	}
+	"grenadier"
+	{
+		"de"	"Grenadier"
+	}
+	"swapslot"
+	{
+		"de"	"*Wechsel Platz*"
+	}
+	"debug_class"
+	{
+		"de"	"*debug class*"
+	}
+	"unknown_class"
+	{
+		"de"	"*unknown*"
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Various notifications.
+	////////////////////////////////////////////////////////////////////////////////
+	"round_start"
+	{
+		// {1} = round number
+		// {2} = plugin version
+		"de"			"Runde {1} Start (v{2})"
+	}
+	"health_restored"
+	{
+		"de"			"Deine Lebensenergie wurde wiederhergestellt."
+	}
+	"player_down"
+	{
+		// {1} = player name
+		// {2} = class name
+		"de"			"{1} ({2}) ist am Boden!"
+	}
+	"you_selected_class"
+	{
+		// {1} = selected class name
+		"de"			"Du hast {1} ausgewaehlt. Benutze Resupply um deine Klasse zu wechseln!"
+	}
+	"another_player_selected_class"
+	{
+		// {1} = another player's name
+		// {2} = selected class name
+		"de"			"{1} hat {2} ausgewaehlt."
+	}
+	"bot_count"
+	{
+		// {1} = bot count value
+		"de"			"Bots: {1}"
+	}
+	"godmode_inactive"
+	{
+		// Please be careful with this one; use the extra spaces to center the percentage.
+		// {1} = god mode percentage (up to 3 digits, i.e. "%3d" format)
+		"de"			"godmode\n    {1}%%"
+	}
+	"godmode_active"
+	{
+		// Please be careful with this one; use the extra spaces to center the percentage.
+		// {1} = god mode percentage (up to 3 digits, i.e. "%3d" format)
+		"de"			"GODMODE\n    {1}%%"
+	}
+	"finale_message"
+	{
+		"de"			"Zeit fuer das Finale! Toete alle Bots oder ueberlebe lang genug!"
+	}
+	"join_group"
+	{
+		"de"			"Werde Mitglied der Army of Five Steamgruppe!"
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Difficulty levels and voting.
+	////////////////////////////////////////////////////////////////////////////////
+	"difficulty_easy"
+	{
+		"de"			"Einfach"
+	}
+	"difficulty_normal"
+	{
+		"de"			"Normal"
+	}
+	"difficulty_hard"
+	{
+		"de"			"Schwer"
+	}
+	"difficulty_brutal"
+	{
+		"de"			"Brutal"
+	}
+	"vote_menu_title"
+	{
+		"de"			"Schwierigkeitsabstimmung:"
+	}
+	"vote_reply"
+	{
+		// {1} = difficulty name
+		"de"			"Du hast fuer {1} gestimmt."
+	}
+	"vote_list_separator"
+	{
+		// This is the separator for the list of difficulty votes, e.g.:
+		// The voting has ended. The votes were: Normal, Brutal, Brutal.
+		// In English, the separator is simply a comma with a space.
+		"de"			", "
+	}
+	"vote_end"
+	{
+		// {1} = list of difficulties selected by players, e.g. "Normal, Brutal, Brutal".
+		"de"			"Die Abstimmung ist vorbei. Die Stimmen waren: {1}."
+	}
+	"vote_end_no_votes"
+	{
+		"de"			"Die Abstimmung ist vorbei. Keine Stimmen wurden abgegeben."
+	}
+	"announce_difficulty"
+	{
+		// {1} = localized difficulty name.
+		"de"			"Schwierigkeit: {1}."
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Tips.
+	////////////////////////////////////////////////////////////////////////////////
+	// ===== B R E A C H E R =====
+	"tip_breacher_count"
+	{
+		"de"			"4"
+	}
+	"tip_breacher_1"
+	{
+		"de"			"Tip: Als Breacher ist es wichtig den Nahkampf zu suchen und Gefechte auf laengere Distanz zu vermeiden."
+	}
+	"tip_breacher_2"
+	{
+		"de"			"Tip: Bleibe als Breacher in Deckung und versuche nah an den Gegner zu kommen."
+	}
+	"tip_breacher_3"
+	{
+		"de"			"Tip: Versuche als Breacher Heavy-Bots zu flankieren und aus naechster Naehe zu vernichten!"
+	}
+	"tip_breacher_4"
+	{
+		"de"			"Tip: Verwende als Breacher deine Maschinenpistole, wenn sich Feinde ausserhalb der Reichweite deiner Schrotflinte befinden."
+	}
+	// ===== R I F L E M A N =====
+	"tip_rifleman_count"
+	{
+		"de"			"4"
+	}
+	"tip_rifleman_1"
+	{
+		"de"			"Tip: Als Rifleman ist es wichtig die Godmode-Faehigkeit richtig einzusetzen. Gutes Timing ist Alles!"
+	}
+	"tip_rifleman_2"
+	{
+		"de"			"Tip: Die Godmode-Faehigkeit des Riflemans laedt sich auf hoeheren Schwierigkeitsgraden langsammer auf."
+	}
+	"tip_rifleman_3"
+	{
+		"de"			"Tip: Als Rifleman ist es schlau immer eine geladene Waffe bereit zu haben."
+	}
+	"tip_rifleman_4"
+	{
+		"de"			"Tip: Versuche als Rifleman deinen Godmode mit einem voll geladenen Gewehr zu entfesseln!"
+	}
+	// ===== S C A V E N G E R =====
+	"tip_scavenger_count"
+	{
+		"de"			"5"
+	}
+	"tip_scavenger_1"
+	{
+		"de"			"Tip: Das Exo-Suit des Scavengers erlaubt es dir einige Treffer zu vertragen. Greif an!"
+	}
+	"tip_scavenger_2"
+	{
+		"de"			"Tip: Als Scavenger ist es wichtig, die Waffen gefallener Feinde zu verwenden."
+	}
+	"tip_scavenger_3"
+	{
+		"de"			"Tip: Wenn du als Scavenger einen Gegner mit deiner Machete erledigst, heilst du dich ein wenig!"
+	}
+	"tip_scavenger_4"
+	{
+		"de"			"Tip: Aufgehobene Waffen sind schwach gegen Heavy-Bots. Nutze als Scavenger deine Machete!"
+	}
+	"tip_scavenger_5"
+	{
+		"de"			"Tip: Als Scavenger, feuere deine Blendpistole und schlag zu! Nachladen kannst du auch spaeter."
+	}
+	// ===== M A R K S M A N =====
+	"tip_marksman_count"
+	{
+		"de"			"4"
+	}
+	"tip_marksman_1"
+	{
+		"de"			"Tip: Als Marksman toetet dein M39 die meisten Feinde mit einem einzigen Treffer."
+	}
+	"tip_marksman_2"
+	{
+		"de"			"Tip: Das M39 des Marksman verfuegt ueber eine sehr hohe Durchschlagskraft. Toete Gegner durch Deckung und Waende hindurch."
+	}
+	"tip_marksman_3"
+	{
+		"de"			"Tip: Mit dem M39 des Marksman toetest du Heavy-Bots mit zwei Koerpertreffern oder einem Kopfschuss."
+	}
+	"tip_marksman_4"
+	{
+		"de"			"Tip: Die Pistolen des Marksman sind zu schwach um einem Heavy-Bot echten Schaden zuzufuegen. Nutze stattdessen das M39!"
+	}
+	// ===== G R E N A D I E R =====
+	"tip_grenadier_count"
+	{
+		"de"			"4"
+	}
+	"tip_grenadier_1"
+	{
+		"de"			"Tip: Der Granatwerfer des Grenadiers fügt weder dir noch Freunden Schaden zu. Feuer Frei!"
+	}
+	"tip_grenadier_2"
+	{
+		"de"			"Tip: Das Snub .44 Revolver des Grenadiers ist ungenau, richtet aber grossen Schaden auf kurze Entfernung an."
+	}
+	"tip_grenadier_3"
+	{
+		"de"			"Tip: Ein Volltreffer mit dem Granatwerfer des Grenadiers toetet einen Heavy-Bot."
+	}
+	"tip_grenadier_4"
+	{
+		"de"			"Tip: Als Grenadier kannst du, genau wie mit jeder anderen Klasse, auch im Sprinten nachladen."
+	}
+	// ===== G E N E R A L =====
+	"tip_general_count"
+	{
+		"de"			"5"
+	}
+	"tip_general_1"
+	{
+		"de"			"Tip: Suche neben toten feindlichen Snipern (SKS/M1A1) nach Granaten."
+	}
+	"tip_general_2"
+	{
+		"de"			"Tip: Sprinten unterbricht den Ladevorgang auf AoF-Servern nicht."
+	}
+	"tip_general_3"
+	{
+		"de"			"Tip: Einige Klassen koennen schwieriger zu meistern sein als Andere. Gib nicht auf und uebe weiter!"
+	}
+	"tip_general_4"
+	{
+		"de"			"Tip: Bots mit Schrotflinte koennen dich mit einem einzigen Treffer toeten. Schalte sie sofort aus!"
+	}
+	"tip_general_5"
+	{
+		"de"			"Tip: Keine der Klassen kann ein Laserzielgeraet verwenden. Wenn du einen Laser siehst, handelt es sich dabei um einen Heavy-Bot."
+	}
+}

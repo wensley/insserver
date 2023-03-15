@@ -1,0 +1,282 @@
+"Phrases"
+{
+	////////////////////////////////////////////////////////////////////////////////
+	// Class names.
+	////////////////////////////////////////////////////////////////////////////////
+	"breacher"
+	{
+		"chi"	"破障手"
+	}
+	"rifleman"
+	{
+		"chi"	"步枪手"
+	}
+	"scavenger"
+	{
+		"chi"	"拾枪手"
+	}
+	"marksman"
+	{
+		"chi"	"精准射击手"
+	}
+	"grenadier"
+	{
+		"chi"	"榴弹兵"
+	}
+	"swapslot"
+	{
+		"chi"	"*更换职业槽*"
+	}
+	"debug_class"
+	{
+		"chi"	"*除错职业*"
+	}
+	"unknown_class"
+	{
+		"chi"	"*未知职业*"
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Various notifications.
+	////////////////////////////////////////////////////////////////////////////////
+	"round_start"
+	{
+		// {1} = round number
+		// {2} = plugin version
+		"chi"			"第{1}局游戏开始 （v{2}）"
+	}
+	"health_restored"
+	{
+		"chi"			"你的生命值已完全恢复。"
+	}
+	"player_down"
+	{
+		// {1} = player name
+		// {2} = class name
+		"chi"			"{1}({2})倒下了！"
+	}
+	"you_selected_class"
+	{
+		// {1} = selected class name
+		"chi"			"你已选择了{1}职业。别忘了重新补给装备！"
+	}
+	"another_player_selected_class"
+	{
+		// {1} = another player's name
+		// {2} = selected class name
+		"chi"			"{1}已选择了{2}职业。"
+	}
+	"bot_count"
+	{
+		// {1} = bot count value
+		"chi"			"敌人数量：{1}"
+	}
+	"godmode_inactive"
+	{
+		// Please be careful with this one; use the extra spaces to center the percentage.
+		// {1} = god mode percentage (up to 3 digits, i.e. "%3d" format)
+		"chi"			"无敌模式\n    {1}%%"
+	}
+	"godmode_active"
+	{
+		// Please be careful with this one; use the extra spaces to center the percentage.
+		// {1} = god mode percentage (up to 3 digits, i.e. "%3d" format)
+		"chi"			"无敌模式\n    {1}%%"
+	}
+	"finale_message"
+	{
+		"chi"			"终于撑到了最终时刻！杀光所有的敌人或者尽力生存的足够久！"
+	}
+	"join_group"
+	{
+		"chi"			"加入Army of Five的Steam群组！"
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Difficulty levels and voting.
+	////////////////////////////////////////////////////////////////////////////////
+	"difficulty_easy"
+	{
+		"chi"			"简单"
+	}
+	"difficulty_normal"
+	{
+		"chi"			"普通"
+	}
+	"difficulty_hard"
+	{
+		"chi"			"困难"
+	}
+	"difficulty_brutal"
+	{
+		"chi"			"残忍"
+	}
+	"vote_menu_title"
+	{
+		"chi"			"难度投票："
+	}
+	"vote_reply"
+	{
+		// {1} = difficulty name
+		"chi"			"你投给了{1}难度。"
+	}
+	"vote_list_separator"
+	{
+		// This is the separator for the list of difficulty votes, e.g.:
+		// The voting has ended. The votes were: Normal, Brutal, Brutal.
+		// In English, the separator is simply a comma with a space.
+		"chi"			"、"
+	}
+	"vote_end"
+	{
+		// {1} = list of difficulties selected by players, e.g. "Normal, Brutal, Brutal".
+		"chi"			"投票结束了。投票的结果是：{1}."
+	}
+	"vote_end_no_votes"
+	{
+		"chi"			"投票结束了。并没有人投票。"
+	}
+	"announce_difficulty"
+	{
+		// {1} = localized difficulty name.
+		"chi"			"难度：{1}."
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Tips.
+	////////////////////////////////////////////////////////////////////////////////
+	// ===== B R E A C H E R =====
+	"tip_breacher_count"
+	{
+		"chi"			"4"
+	}
+	"tip_breacher_1"
+	{
+		"chi"			"提示：作为一名破障手， 关键就在于尽可能的保持接近敌人， 同时避免远距离的敌人。"
+	}
+	"tip_breacher_2"
+	{
+		"chi"			"提示：作为一名破障手， 前往次级路线来突袭敌人来尽可能的保持高作战效率。"
+	}
+	"tip_breacher_3"
+	{
+		"chi"			"提示：作为一名破障手， 击杀重甲敌人的最佳方式是侧袭他并近距离快速射击。"
+	}
+	"tip_breacher_4"
+	{
+		"chi"			"提示：作为一名破障手， 当面对无法躲避的远距离敌人时， 切换到冲锋枪是你的最佳选择。"
+	}
+	// ===== R I F L E M A N =====
+	"tip_rifleman_count"
+	{
+		"chi"			"4"
+	}
+	"tip_rifleman_1"
+	{
+		"chi"			"提示：作为一名步枪手， 你需要学会掌握启动无敌模式的最佳时机来更好的利用。"
+	}
+	"tip_rifleman_2"
+	{
+		"chi"			"提示：作为一名步枪手， 游戏难度越高， 你就得造成更多的伤害来启动无敌模式。"
+	}
+	"tip_rifleman_3"
+	{
+		"chi"			"提示：作为一名步枪手， 最好让你的一支步枪保持充足的子弹来快速反应射击。"
+	}
+	"tip_rifleman_4"
+	{
+		"chi"			"提示：作为一名步枪手， 可以试着使用一支步枪来杀入无敌模式并在启动无敌模式后切换到另一支步枪。"
+	}
+	// ===== S C A V E N G E R =====
+	"tip_scavenger_count"
+	{
+		"chi"			"5"
+	}
+	"tip_scavenger_1"
+	{
+		"chi"			"提示：作为一名拾枪手， 你的EXO装束可以吸收不少的伤害 - 因此不用过于担心被敌人射中。"
+	}
+	"tip_scavenger_2"
+	{
+		"chi"			"提示：作为一名拾枪手， 你可以利用手上的武器来从敌人尸体处获取掉落的枪支。"
+	}
+	"tip_scavenger_3"
+	{
+		"chi"			"提示：作为一名拾枪手，使用你的近战武器击杀敌人可以恢复一些生命值。"
+	}
+	"tip_scavenger_4"
+	{
+		"chi"			"提示：作为一名拾枪手， 拾到的武器对重甲敌人来说效果并不好。用你的刀吧！"
+	}
+	"tip_scavenger_5"
+	{
+		"chi"			"提示：作为一名拾枪手， 射击你的闪光枪之后立即行动 - 反正你可以稍后再重填弹药。"
+	}
+	// ===== M A R K S M A N =====
+	"tip_marksman_count"
+	{
+		"chi"			"4"
+	}
+	"tip_marksman_1"
+	{
+		"chi"			"提示：作为一名精准射击手， 你的M39大部分情况下可以一击必杀大多数敌人。"
+	}
+	"tip_marksman_2"
+	{
+		"chi"			"提示：作为一名精准射击手， 你的M39有相当强大的穿透力；试试射击拐角、物体还有墙壁后的敌人。"
+	}
+	"tip_marksman_3"
+	{
+		"chi"			"提示：作为一名精准射击手， 重甲敌人可以用身体上的两枪或一枪爆头解决。"
+	}
+	"tip_marksman_4"
+	{
+		"chi"			"提示：作为一名精准射击手， 你的手枪威力完全无法撼动重甲敌人 - 使用你的M39吧。"
+	}
+	// ===== G R E N A D I E R =====
+	"tip_grenadier_count"
+	{
+		"chi"			"4"
+	}
+	"tip_grenadier_1"
+	{
+		"chi"			"提示：作为一名榴弹兵， 你和你的队友均免疫手雷伤害所以开轰吧！"
+	}
+	"tip_grenadier_2"
+	{
+		"chi"			"提示：作为一名榴弹兵， 你的Snub .44虽然射的不太准但是近距射击时威力巨大。"
+	}
+	"tip_grenadier_3"
+	{
+		"chi"			"提示：作为一名榴弹兵， 一个精准的榴弹就能带走一个重甲敌人。"
+	}
+	"tip_grenadier_4"
+	{
+		"chi"			"提示：作为一名榴弹兵， 你也能像别的职业一样一边跑或跳一边重填弹药。"
+	}
+	// ===== G E N E R A L =====
+	"tip_general_count"
+	{
+		"chi"			"5"
+	}
+	"tip_general_1"
+	{
+		"chi"			"提示：在死亡的狙击手机器人（SKS/M1A1）附近有可能找到额外的手雷。"
+	}
+	"tip_general_2"
+	{
+		"chi"			"提示：奔跑和跳跃不会在AoF服务器里停止你重填弹药。"
+	}
+	"tip_general_3"
+	{
+		"chi"			"提示：一些职业可能相对更难于掌握技巧。耐心一些就能做得更好！"
+	}
+	"tip_general_4"
+	{
+		"chi"			"提示：霰弹枪敌人可能只用一枪就干掉你 - 看到他们就要立刻崩了他们！"
+	}
+	"tip_general_5"
+	{
+		"chi"			"提示：玩家不能装备激光镭射。如果你看到镭射的话， 那就是重甲敌人。"
+	}
+}

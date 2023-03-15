@@ -1,0 +1,19 @@
+1083043108	// collection of custom maps supported by Army of Five
+1989120573	// aof_mapdata.vpk for voting screens, custom sounds etc - REQUIRED
+635348562	// Army of Five mod itself (aof_main.vpk)
+2599050685   // hideout_aof (checkpoint)
+2010242125   // kandagal_aof (checkpoint)
+2461902631  // limansk_aof (checkpoint)
+1207457291  // cs_italy_coop checkpoint
+426712960    // almaden_b5
+672667761    // chateau_tunnels_v3
+498252536    // invasion_coop_ws
+498257082   // fortress_coop_ws
+498255733   // clean_sweep_coop_ws
+284971476   // tunnel_rats_coop_ws
+318205420   // block_party_coop_ws
+292080383   // jail_break_coop_ws
+352148389   // angle_iron_coop_ws
+292081732   // launch_control_coop_ws
+352149578   // game_day_coop_ws
+283120201   // bunker_busting_coop_ws

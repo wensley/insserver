@@ -1,0 +1,278 @@
+"Phrases"
+{
+	////////////////////////////////////////////////////////////////////////////////
+	// Class names. You might want to keep these as-is.
+	////////////////////////////////////////////////////////////////////////////////
+	"breacher"
+	{
+		"tr"	"Breacher"
+	}
+	"rifleman"
+	{
+		"tr"	"Rifleman"
+	}
+	"scavenger"
+	{
+		"tr"	"Scavenger"
+	}
+	"marksman"
+	{
+		"tr"	"Marksman"
+	}
+	"grenadier"
+	{
+		"tr"	"Grenadier"
+	}
+	"swapslot"
+	{
+		"tr"	"*Sinif değiştirme yeri*"
+	}
+	"debug_class"
+	{
+		"tr"	"*debug class*"
+	}
+	"unknown_class"
+	{
+		"tr"	"*bilinmeyen*"
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Various notifications.
+	////////////////////////////////////////////////////////////////////////////////
+	"round_start"
+	{
+		// {1} = round number
+		// {2} = plugin version
+		"tr"			"Raund {1} başliyor (v{2})"
+	}
+	"health_restored"
+	{
+		"tr"			"Sağliğiniz yenilendi."
+	}
+	"player_down"
+	{
+		// {1} = player name
+		// {2} = class name
+		"tr"			"{1} ({2}) öldü!"
+	}
+	"you_selected_class"
+	{
+		// {1} = selected class name
+		"tr"			"Seçtiğin sinif {1}. Sinifini değiştirmek için yeniden ikmal yap!"
+	}
+	"another_player_selected_class"
+	{
+		// {1} = another player's name
+		// {2} = selected class name
+		"tr"			"{1}, {2} sinifini seçti."
+	}
+	"bot_count"
+	{
+		// {1} = bot count value
+		"tr"			"Bot Sayisi: {1}"
+	}
+	"godmode_inactive"
+	{
+		// Please be careful with this one; use the extra spaces to center the percentage.
+		// {1} = god mode percentage (up to 3 digits, i.e. "%3d" format)
+		"tr"			"godmode\n    {1}%%"
+	}
+	"godmode_active"
+	{
+		// Please be careful with this one; use the extra spaces to center the percentage.
+		// {1} = god mode percentage (up to 3 digits, i.e. "%3d" format)
+		"tr"			"GODMODE\n    {1}%%"
+	}
+	"finale_message"
+	{
+		"tr"			"Final zamani! Tüm botlari öldür ya da hayatta kal!"
+	}
+	"join_group"
+	{
+		"tr"			"Army of Five steam grubuna katil!"
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Difficulty levels and voting.
+	////////////////////////////////////////////////////////////////////////////////
+	"difficulty_easy"
+	{
+		"tr"			"Kolay"
+	}
+	"difficulty_normal"
+	{
+		"tr"			"Normal"
+	}
+	"difficulty_hard"
+	{
+		"tr"			"Zor"
+	}
+	"difficulty_brutal"
+	{
+		"tr"			"Mücadeleci"
+	}
+	"vote_reply"
+	{
+		// {1} = difficulty name
+		"tr"			"{1} zorluğu için oy verdiniz."
+	}
+	"vote_list_separator"
+	{
+		// This is the separator for the list of difficulty votes, e.g.:
+		// The voting has ended. The votes were: Normal, Brutal, Brutal.
+		// In English, the separator is simply a comma with a space.
+		"tr"			", "
+	}
+	"vote_end"
+	{
+		// {1} = list of difficulties selected by players, e.g. "Normal, Brutal, Brutal".
+		"tr"			"Oylama tamamlandi. Verilen oylar: {1}."
+	}
+	"vote_end_no_votes"
+	{
+		"tr"			"Oylama tamamlandi. Hiç oy kullanilmadi."
+	}
+	"announce_difficulty"
+	{
+		// {1} = localized difficulty name.
+		"tr"			"Zorluk seviyesi: {1}."
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Tips.
+	////////////////////////////////////////////////////////////////////////////////
+	// ===== B R E A C H E R =====
+	"tip_breacher_count"
+	{
+		"tr"			"4"
+	}
+	"tip_breacher_1"
+	{
+		"tr"			"Ipucu: Breacher sinifinda, düşmana yakin mesafede kalmali ve uzak mesafeli çatişmalardan kaçinmalisin."
+	}
+	"tip_breacher_2"
+	{
+		"tr"			"Ipucu: Breacher sinifinda, etkili olmak için düşmana yakin ol, alternatif siper yerlerine akin et."
+	}
+	"tip_breacher_3"
+	{
+		"tr"			"Ipucu: Breacher sinifinda, ağir botu öldürmenin en iyi yolu, yakin mesafeden düşmani yan tarafindan vurmaktir."
+	}
+	"tip_breacher_4"
+	{
+		"tr"			"Ipucu: Breacher sinifinda, düşman açik alanda ve uzakta ise, hafif makinali silahina geçiş yap."
+	}
+	// ===== R I F L E M A N =====
+	"tip_rifleman_count"
+	{
+		"tr"			"4"
+	}
+	"tip_rifleman_1"
+	{
+		"tr"			"Ipucu: Rifleman sinifinda, godmode yeteneğinden en iyi şekilde faydalanmak için zamani etkili kullanmayi öğrenmelisin."
+	}
+	"tip_rifleman_2"
+	{
+		"tr"			"Ipucu: Rifleman sinifinda, zorluk seviyesi yükseldikçe, godmode a ulaşmak için daha fazla hasar vermek gerekir."
+	}
+	"tip_rifleman_3"
+	{
+		"tr"			"Ipucu: Rifleman sinifinda, silahlarindan birini sürekli dolu tutmak yararina olacaktir."
+	}
+	"tip_rifleman_4"
+	{
+		"tr"			"Ipucu: Rifleman sinifinda, godmode a ulaşana kadar ilk silahi kullan, ulaşinca diğer silaha geçiş yap."
+	}
+	// ===== S C A V E N G E R =====
+	"tip_scavenger_count"
+	{
+		"tr"			"5"
+	}
+	"tip_scavenger_1"
+	{
+		"tr"			"Ipucu: Scavenger sinifinda, exo-suit hasara karşi çok dayaniklidir - vurulmaktan korkma!"
+	}
+	"tip_scavenger_2"
+	{
+		"tr"			"Ipucu: Scavenger sinifinda, yerden silah almak için, ekipmanlarini kullanarak düşmani öldür."
+	}
+	"tip_scavenger_3"
+	{
+		"tr"			"Ipucu: Scavenger sinifinda, düşmanlari biçağini kullanarak öldürmek sağliğini biraz artirir."
+	}
+	"tip_scavenger_4"
+	{
+		"tr"			"Ipucu: Scavenger sinifinda, yerden alinan silahlarin çoğu ağir bota karşi yeterince iyi değil. Pala'ni kullan!"
+	}
+	"tip_scavenger_5"
+	{
+		"tr"			"Ipucu: Scavenger sinifinda, flaş silahini ateşle ve hizli hareket et - silahini daha sonra doldurabilirsin!"
+	}
+	// ===== M A R K S M A N =====
+	"tip_marksman_count"
+	{
+		"tr"			"4"
+	}
+	"tip_marksman_1"
+	{
+		"tr"			"Ipucu: Marksman sinifinda, M39 silahin, düşmanlarin çoğunu vücudun herhangi bir yerinden tek vuruşta öldürür."
+	}
+	"tip_marksman_2"
+	{
+		"tr"			"Ipucu: Marksman sinifinda, M39 silahin çok tesirli; köşe, nesne ve duvar arkasindaki düşmanlara ateş etmeyi dene."
+	}
+	"tip_marksman_3"
+	{
+		"tr"			"Ipucu: Marksman sinifinda, ağir botu kafadan tek atişla, vücuduna iki atişla öldürebilirsin."
+	}
+	"tip_marksman_4"
+	{
+		"tr"			"Ipucu: Marksman sinifinda, tabancalar ağir botun zirhina karşi çok zayif - onlara karşi M39 silahini kullan."
+	}
+	// ===== G R E N A D I E R =====
+	"tip_grenadier_count"
+	{
+		"tr"			"4"
+	}
+	"tip_grenadier_1"
+	{
+		"tr"			"Ipucu: Grenadier sinifinda, attiğin bomba seni ve takim arkadaşlarini etkilemez, rahat ol!"
+	}
+	"tip_grenadier_2"
+	{
+		"tr"			"Ipucu: Grenadier sinifinda, Snub .44 silahin hedef doğruluğu düşük, fakat yakin mesafede çok güçlüdür."
+	}
+	"tip_grenadier_3"
+	{
+		"tr"			"Ipucu: Grenadier sinifinda, bomba atar, ağir botu tek atişta öldürebilir."
+	}
+	"tip_grenadier_4"
+	{
+		"tr"			"Ipucu: Grenadier sinifinda, tipki diğer siniflarda olduğu gibi, silahini doldururken hizli koşabilirsin."
+	}
+	// ===== G E N E R A L =====
+	"tip_general_count"
+	{
+		"tr"			"5"
+	}
+	"tip_general_1"
+	{
+		"tr"			"Ipucu: ekstra bomba için, ölü sniper botlarin (SKS/M1A1) yanina bakin."
+	}
+	"tip_general_2"
+	{
+		"tr"			"Ipucu: AoF sunucularinda, hizli koşmak şarjör değiştirmeyi engellemez."
+	}
+	"tip_general_3"
+	{
+		"tr"			"Ipucu: bazi siniflarda uzmanlaşmak, diğerlerine nazaran zor olabilir. Sabirli olun ve öğrenin!"
+	}
+	"tip_general_4"
+	{
+		"tr"			"Ipucu: pompali silah kullanan botlar sizi tek atişta öldürebilir - onlari çabucak öldürün!"
+	}
+	"tip_general_5"
+	{
+		"tr"			"Ipucu: hiçbir oyuncu sinifi, lazer nişangahina sahip değil. Eğer lazer görürseniz, o bir ağir bottur."
+	}
+}

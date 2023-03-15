@@ -1,0 +1,293 @@
+"Phrases"
+{
+	////////////////////////////////////////////////////////////////////////////////
+	// Class names.
+	////////////////////////////////////////////////////////////////////////////////
+	"breacher"
+	{
+		"en"	"Breacher"
+	}
+	"rifleman"
+	{
+		"en"	"Rifleman"
+	}
+	"scavenger"
+	{
+		"en"	"Scavenger"
+	}
+	"marksman"
+	{
+		"en"	"Marksman"
+	}
+	"grenadier"
+	{
+		"en"	"Grenadier"
+	}
+	"swapslot"
+	{
+		"en"	"*swap slot*"
+	}
+	"debug_class"
+	{
+		"en"	"*debug class*"
+	}
+	"unknown_class"
+	{
+		"en"	"*unknown*"
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Various notifications.
+	////////////////////////////////////////////////////////////////////////////////
+	"round_start"
+	{
+		// {1} = round number
+		// {2} = plugin version
+		"#format"		"{1:d},{2:s}"
+		"en"			"Round {1} start (v{2})"
+	}
+	"health_restored"
+	{
+		"en"			"Your health has been restored."
+	}
+	"player_down"
+	{
+		// {1} = player name
+		// {2} = class name
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} ({2}) is down!"
+	}
+	"you_selected_class"
+	{
+		// {1} = selected class name
+		"#format"		"{1:s}"
+		"en"			"You have selected {1}. Resupply to change your class!"
+	}
+	"another_player_selected_class"
+	{
+		// {1} = another player's name
+		// {2} = selected class name
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} has selected {2}."
+	}
+	"bot_count"
+	{
+		// {1} = bot count value
+		"#format"		"{1:d}"
+		"en"			"Bots: {1}"
+	}
+	"godmode_inactive"
+	{
+		// Please be careful with this one; use the extra spaces to center the percentage.
+		// {1} = god mode percentage (up to 3 digits, i.e. "%3d" format)
+		"#format"		"{1:3d}"
+		"en"			"godmode\n    {1}%%"
+	}
+	"godmode_active"
+	{
+		// Please be careful with this one; use the extra spaces to center the percentage.
+		// {1} = god mode percentage (up to 3 digits, i.e. "%3d" format)
+		"#format"		"{1:3d}"
+		"en"			"GODMODE\n    {1}%%"
+	}
+	"finale_message"
+	{
+		"en"			"Finale time! Kill all the bots or survive long enough!"
+	}
+	"join_group"
+	{
+		"en"			"Join the Army of Five steam group!"
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Difficulty levels and voting.
+	////////////////////////////////////////////////////////////////////////////////
+	"difficulty_easy"
+	{
+		"en"			"Easy"
+	}
+	"difficulty_normal"
+	{
+		"en"			"Normal"
+	}
+	"difficulty_hard"
+	{
+		"en"			"Hard"
+	}
+	"difficulty_brutal"
+	{
+		"en"			"Brutal"
+	}
+	"vote_menu_title"
+	{
+		"en"			"Difficulty vote:"
+	}
+	"vote_reply"
+	{
+		// {1} = difficulty name
+		"#format"		"{1:s}"
+		"en"			"You have voted for {1} difficulty."
+	}
+	"vote_list_separator"
+	{
+		// This is the separator for the list of difficulty votes, e.g.:
+		// The voting has ended. The votes were: Normal, Brutal, Brutal.
+		// In English, the separator is simply a comma with a space.
+		"en"			", "
+	}
+	"vote_end"
+	{
+		// {1} = list of difficulties selected by players, e.g. "Normal, Brutal, Brutal".
+		"#format"		"{1:s}"
+		"en"			"The voting has ended. The votes were: {1}."
+	}
+	"vote_end_no_votes"
+	{
+		"en"			"The voting has ended. There have been no votes."
+	}
+	"announce_difficulty"
+	{
+		// {1} = localized difficulty name.
+		"#format"		"{1:s}"
+		"en"			"Difficulty: {1}."
+	}
+	
+	////////////////////////////////////////////////////////////////////////////////
+	// Tips.
+	////////////////////////////////////////////////////////////////////////////////
+	// ===== B R E A C H E R =====
+	"tip_breacher_count"
+	{
+		"en"			"4"
+	}
+	"tip_breacher_1"
+	{
+		"en"			"Tip: as Breacher, the key is to stay close to enemies and avoid longer ranges at all times."
+	}
+	"tip_breacher_2"
+	{
+		"en"			"Tip: as Breacher, rush through alternative paths into cover to stay close to enemies and be most effective."
+	}
+	"tip_breacher_3"
+	{
+		"en"			"Tip: as Breacher, the best way to kill a heavy bot is to flank him and shoot him at point blank range."
+	}
+	"tip_breacher_4"
+	{
+		"en"			"Tip: as Breacher, switch to your SMG when enemies are in the open and out of your shotgun's range."
+	}
+	// ===== R I F L E M A N =====
+	"tip_rifleman_count"
+	{
+		"en"			"4"
+	}
+	"tip_rifleman_1"
+	{
+		"en"			"Tip: as Rifleman, you need to learn to time your godmode ability right to make the most of it."
+	}
+	"tip_rifleman_2"
+	{
+		"en"			"Tip: as Rifleman, the harder the difficulty is, the more damage it takes to acquire the godmode."
+	}
+	"tip_rifleman_3"
+	{
+		"en"			"Tip: as Rifleman, it is a good idea to try and keep one of your rifles fully loaded at all times."
+	}
+	"tip_rifleman_4"
+	{
+		"en"			"Tip: as Rifleman, get godmode with one rifle and switch to the other one once godmode is activated."
+	}
+	// ===== S C A V E N G E R =====
+	"tip_scavenger_count"
+	{
+		"en"			"5"
+	}
+	"tip_scavenger_1"
+	{
+		"en"			"Tip: as Scavenger, your exo-suit allows you to take a lot of damage - it is okay to get shot!"
+	}
+	"tip_scavenger_2"
+	{
+		"en"			"Tip: as Scavenger, use the tools you've been provided with to scavenge weapons from the bodies."
+	}
+	"tip_scavenger_3"
+	{
+		"en"			"Tip: as Scavenger, killing enemies with your melee weapon replenishes some of your health."
+	}
+	"tip_scavenger_4"
+	{
+		"en"			"Tip: as Scavenger, most of the scavenged weapons are not good enough against heavy bots. Use your machete!"
+	}
+	"tip_scavenger_5"
+	{
+		"en"			"Tip: as Scavenger, fire your flash gun and act immediately - you can reload it later."
+	}
+	// ===== M A R K S M A N =====
+	"tip_marksman_count"
+	{
+		"en"			"4"
+	}
+	"tip_marksman_1"
+	{
+		"en"			"Tip: as Marksman, your M39 kills most enemies in one hit to any body part."
+	}
+	"tip_marksman_2"
+	{
+		"en"			"Tip: as Marksman, your M39 has insane penetration; try firing through corners, objects, or walls."
+	}
+	"tip_marksman_3"
+	{
+		"en"			"Tip: as Marksman, heavy bots are guaranteed to die in two bodyshots or a single headshot."
+	}
+	"tip_marksman_4"
+	{
+		"en"			"Tip: as Marksman, the pistols are weak against heavy bot's armor - use your M39 against them."
+	}
+	// ===== G R E N A D I E R =====
+	"tip_grenadier_count"
+	{
+		"en"			"4"
+	}
+	"tip_grenadier_1"
+	{
+		"en"			"Tip: as Grenadier, you do not hurt yourself or your teammates with the grenades so blast away!"
+	}
+	"tip_grenadier_2"
+	{
+		"en"			"Tip: as Grenadier, your Snub .44 is inaccurate yet extremely powerful at close range."
+	}
+	"tip_grenadier_3"
+	{
+		"en"			"Tip: as Grenadier, one precise grenade launcher shot can take out a heavy bot."
+	}
+	"tip_grenadier_4"
+	{
+		"en"			"Tip: as Grenadier, just as any other class, you can still run while reloading."
+	}
+	// ===== G E N E R A L =====
+	"tip_general_count"
+	{
+		"en"			"5"
+	}
+	"tip_general_1"
+	{
+		"en"			"Tip: search near dead unarmored sniper bots (SKS/M1A1) for extra grenades."
+	}
+	"tip_general_2"
+	{
+		"en"			"Tip: running doesn't interrupt reloading on AoF servers."
+	}
+	"tip_general_3"
+	{
+		"en"			"Tip: certain classes may be harder to master than others. Be patient and learn!"
+	}
+	"tip_general_4"
+	{
+		"en"			"Tip: shotgunner bots might take you out with a single blast - kill them off quickly!"
+	}
+	"tip_general_5"
+	{
+		"en"			"Tip: no player class can equip the laser sight. When you see one, it's an enemy heavy bot."
+	}
+}
+

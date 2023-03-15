@@ -1,0 +1,3835 @@
+"bse"
+{
+	"spawn_entities"
+	{
+		"0"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2048 72 -650"
+			"angles"		"0 0 180"
+		}
+		"1"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2048 54 -650"
+			"angles"		"0 90 180"
+		}
+		"2"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2048 36 -650"
+			"angles"		"0 180 180"
+		}
+		"3"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2048 18 -650"
+			"angles"		"0 270 180"
+		}
+		"4"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2048 0 -650"
+			"angles"		"0 0 180"
+		}
+		"5"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2048 -18 -650"
+			"angles"		"0 90 180"
+		}
+		"6"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2048 -36 -650"
+			"angles"		"0 180 180"
+		}
+		"7"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2048 -54 -650"
+			"angles"		"0 270 180"
+		}
+		"8"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2048 -72 -650"
+			"angles"		"0 0 180"
+		}
+		"10"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2120 72 -650"
+			"angles"		"0 0 180"
+		}
+		"11"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2120 54 -650"
+			"angles"		"0 90 180"
+		}
+		"12"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2120 36 -650"
+			"angles"		"0 180 180"
+		}
+		"13"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2120 18 -650"
+			"angles"		"0 270 180"
+		}
+		"14"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2120 0 -650"
+			"angles"		"0 0 180"
+		}
+		"15"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2120 -18 -650"
+			"angles"		"0 90 180"
+		}
+		"16"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2120 -36 -650"
+			"angles"		"0 180 180"
+		}
+		"17"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2120 -54 -650"
+			"angles"		"0 270 180"
+		}
+		"18"
+		{
+			"comment"		"test"
+			"modelname"		"models/embassy/embassy_emb_column.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2120 -72 -650"
+			"angles"		"0 0 180"
+		}
+		"100"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2175 688 -856"
+			"angles"		"0 0 0"
+		}
+		"101"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2175 648 -856"
+			"angles"		"0 0 0"
+		}
+		"102"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2175 872 -856"
+			"angles"		"0 0 0"
+		}
+		"103"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2175 832 -856"
+			"angles"		"0 0 0"
+		}
+		"104"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2175 -872 -856"
+			"angles"		"0 0 0"
+		}
+		"105"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-2175 -832 -856"
+			"angles"		"0 0 0"
+		}
+		"106"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_afghan/prop_fortification_hesco_medium_snow.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-824 2028 -1088"
+			"angles"		"0 45 0"
+		}
+		"107"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_afghan/prop_fortification_hesco_medium_snow.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-824 2028 -1007"
+			"angles"		"0 45 0"
+		}
+		"108"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/old_metal_door_01.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-393 1576.5 -896"
+			"angles"		"0 0 0"
+		}
+		"109"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/old_metal_door_01.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-393 1687.5 -896"
+			"angles"		"0 180 0"
+		}
+		"110"
+		{
+			"comment"		"test"
+			"modelname"		"models/siege/prop_storedoor_128_128_closed.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-1088 1424 -896"
+			"angles"		"0 0 0"
+		}
+		"111"
+		{
+			"comment"		"test"
+			"modelname"		"models/siege/prop_storedoor_128_128_closed.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-1088 -1416 -896"
+			"angles"		"0 180 0"
+		}
+		"112"
+		{
+			"comment"		"test"
+			"modelname"		"models/siege/prop_storedoor_128_128_closed.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"463 1471 -896"
+			"angles"		"0 0 0"
+		}
+		"113"
+		{
+			"comment"		"test"
+			"modelname"		"models/siege/prop_storedoor_128_128_closed.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"463 -1476 -896"
+			"angles"		"0 180 0"
+		}
+		"114"
+		{
+			"comment"		"test"
+			"modelname"		"models/siege/prop_storefence_256_98_close.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-1796 1239.5 -900"
+			"angles"		"0 90 0"
+		}
+		"115"
+		{
+			"comment"		"test"
+			"modelname"		"models/siege/prop_storefence_256_98_close.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-1804 -1239.9 -900"
+			"angles"		"0 270 0"
+		}
+		"116"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_props/prop_facade_door_a.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-786 1064 -1090"
+			"angles"		"0 90 0"
+		}
+		"117"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_props/prop_facade_door_a.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-786 1064 -1090"
+			"angles"		"0 270 0"
+		}
+		"118"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_props/prop_facade_door_a.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-786 -1064 -1090"
+			"angles"		"0 90 0"
+		}
+		"119"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_props/prop_facade_door_a.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"-786 -1064 -1090"
+			"angles"		"0 270 0"
+		}
+		"122"
+		{
+			"comment"		"test"
+			"modelname"		"models/siege/prop_storefence_128_128_close.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1282 -619 -899"
+			"angles"		"0 0 0"
+		}
+		"123"
+		{
+			"comment"		"test"
+			"modelname"		"models/siege/prop_storefence_128_128_close.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1282 619 -899"
+			"angles"		"0 180 0"
+		}
+		"124"
+		{
+			"comment"		"test"
+			"modelname"		"models/siege/prop_storefence_128_128_close.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1856 619 -901"
+			"angles"		"0 180 0"
+		}
+		"125"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_props/ch_brickwall_fence_01.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1856 616 -750"
+			"angles"		"0 90 0"
+		}
+		"126"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_afghan/prop_fortification_hesco_medium_snow.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"2288 665 -895"
+			"angles"		"0 102 0"
+		}
+		"127"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_afghan/prop_fortification_hesco_medium_snow.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"2250 728 -895"
+			"angles"		"0 98 0"
+		}
+		"128"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_afghan/prop_fortification_hesco_large_snow.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1228 1413 -896"
+			"angles"		"0 0 0"
+		}
+		"129"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1154 264 -854"
+			"angles"		"0 90 0"
+		}
+		"130"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1193 264 -854"
+			"angles"		"0 90 0"
+		}
+		"131"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1232 264 -854"
+			"angles"		"0 90 0"
+		}
+		"132"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1154 -264 -854"
+			"angles"		"0 90 0"
+		}
+		"133"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1193 -264 -854"
+			"angles"		"0 90 0"
+		}
+		"134"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/district_window_01_bars.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1232 -264 -854"
+			"angles"		"0 90 0"
+		}
+	}
+	"spawn_entities_unused"
+	{
+		"120"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_props/prop_facade_door_a.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"640 -1888 -1096"
+			"angles"		"0 180 0"
+		}
+		"121"
+		{
+			"comment"		"test"
+			"modelname"		"models/static_fittings/doordbl_01.mdl"
+			"classname"		"prop_dynamic_override"
+			"origin"		"1279.5 -1323 -1088"
+			"angles"		"0 180 0"
+		}
+	}
+	"move_entities"
+	{
+		"0"
+		{
+			"classname"		"ins_blockzone"
+			"targetname"	"bz1"
+			"origin"		"0.00 0.00 0.00"
+			"new_origin"	"700.00 -300.00 0.00"
+		}
+		"1"
+		{
+			"classname"		"trigger_capture_zone"
+			"targetname"	"cz6"
+			"origin"		"3.50 -59.00 -1017.94"
+			"new_origin"	"3.50 -59.00 -987.94"
+		}
+		"2"
+		{
+			"classname"		"ins_blockzone"
+			"targetname"	"bz2"
+			"origin"		"0.00 0.00 0.00"
+			"new_origin"	"100.00 0.00 0.00"
+		}
+		"3"
+		{
+			"classname"		"ins_blockzone"
+			"targetname"	"bz3"
+			"origin"		"0.00 0.00 0.00"
+			"new_origin"	"0.00 315.00 0.00"
+		}
+	}
+	"dummyspot"
+	{
+		"origin"		"931.0 2646.0 -1115.0"
+	}
+	"player_spawnpoints"
+	{
+		"C"
+		{
+			"0"
+			{
+				"origin"		"-2276 232 -883"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"-2329 149 -883"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"-2471 238 -883"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"-2460 152 -883"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"-2574 193 -883"
+				"active"		"1"
+			}
+		}
+		"E"
+		{
+			"0"
+			{
+				"origin"		"949 -3271 -979"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"1020 -3269 -979"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"1112 -3268 -979"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"1202 -3269 -979"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"1311 -3261 -979"
+				"active"		"1"
+			}
+		}
+		"F"
+		{
+			"0"
+			{
+				"origin"		"2683 -58 -892"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"2606 47 -892"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"2582 -72 -892"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"2487 53 -892"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"2502 -74 -892"
+				"active"		"1"
+			}
+		}
+		"H"
+		{
+			"0"
+			{
+				"origin"		"-1864.05 2.91 -883.96"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"-1859.12 -115.45 -883.96"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"-1862.04 -55.88 -883.96"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"-1863.12 68.14 -883.96"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"-1862.42 133.31 -883.96"
+				"active"		"1"
+			}
+		}
+	}
+	"spawnpoints"
+	{
+		"A"
+		{
+			"0"
+			{
+				"origin"		"-1590.16 1404.06 -1075.96"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"-1492.25 1305.56 -1075.96"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"-1946.35 1917.30 -883.96"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"-1928.06 1732.80 -883.96"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"-1911.66 1179.66 -883.96"
+				"active"		"1"
+			}
+			"5"
+			{
+				"origin"		"-2135.39 1161.06 -1035.96"
+				"active"		"1"
+			}
+			"6"
+			{
+				"origin"		"-2378.92 1180.00 -1035.96"
+				"active"		"1"
+			}
+			"7"
+			{
+				"origin"		"-2463.92 1184.00 -1035.96"
+				"active"		"1"
+			}
+			"8"
+			{
+				"origin"		"-3284.37 983.29 -883.96"
+				"active"		"1"
+			}
+			"9"
+			{
+				"origin"		"-3022.39 1006.33 -883.96"
+				"active"		"1"
+			}
+			"10"
+			{
+				"origin"		"-2794.89 1018.82 -883.96"
+				"active"		"1"
+			}
+			"11"
+			{
+				"origin"		"-2448.69 981.59 -883.96"
+				"active"		"1"
+			}
+			"12"
+			{
+				"origin"		"-2287.39 1432.66 -1011.96"
+				"active"		"1"
+			}
+			"13"
+			{
+				"origin"		"-2823.34 1467.94 -1011.96"
+				"active"		"1"
+			}
+			"14"
+			{
+				"origin"		"-2738.34 1463.94 -1011.96"
+				"active"		"1"
+			}
+			"15"
+			{
+				"origin"		"-3287.92 1188.00 -947.96"
+				"active"		"1"
+			}
+			"16"
+			{
+				"origin"		"-3084.56 1949.66 -883.96"
+				"active"		"1"
+			}
+			"17"
+			{
+				"origin"		"-3285.51 1677.96 -1011.96"
+				"active"		"1"
+			}
+			"18"
+			{
+				"origin"		"-3200.51 1673.96 -1011.96"
+				"active"		"1"
+			}
+			"19"
+			{
+				"origin"		"-2973.69 1169.39 -883.96"
+				"active"		"1"
+			}
+			"20"
+			{
+				"origin"		"-2888.69 1165.39 -883.96"
+				"active"		"1"
+			}
+			"21"
+			{
+				"origin"		"-2094.09 1378.36 -1011.96"
+				"active"		"1"
+			}
+			"22"
+			{
+				"origin"		"-2090.89 1558.50 -883.96"
+				"active"		"1"
+			}
+			"23"
+			{
+				"origin"		"-2195.86 1947.75 -883.96"
+				"active"		"1"
+			}
+			"24"
+			{
+				"origin"		"-2254.13 2173.69 -1075.96"
+				"active"		"1"
+			}
+			"25"
+			{
+				"origin"		"-3385.19 860.22 -883.96"
+				"active"		"1"
+			}
+			"26"
+			{
+				"origin"		"-2646.37 1877.16 -1035.96"
+				"active"		"1"
+			}
+			"27"
+			{
+				"origin"		"-2353.05 1960.36 -1075.96"
+				"active"		"1"
+			}
+			"28"
+			{
+				"origin"		"-2197.28 1956.66 -1075.96"
+				"active"		"1"
+			}
+			"29"
+			{
+				"origin"		"-2950.19 2308.81 -883.96"
+				"active"		"1"
+			}
+			"30"
+			{
+				"origin"		"-2935.04 2188.62 -883.96"
+				"active"		"1"
+			}
+			"31"
+			{
+				"origin"		"-2931.86 1698.16 -900.96"
+				"active"		"1"
+			}
+			"32"
+			{
+				"origin"		"-3011.75 1704.66 -900.96"
+				"active"		"1"
+			}
+			"33"
+			{
+				"origin"		"-3103.17 1660.66 -900.96"
+				"active"		"1"
+			}
+			"34"
+			{
+				"origin"		"-2974.06 895.63 -883.96"
+				"active"		"1"
+			}
+			"35"
+			{
+				"origin"		"-3111.32 900.98 -883.96"
+				"active"		"1"
+			}
+			"36"
+			{
+				"origin"		"-3244.90 899.69 -883.96"
+				"active"		"1"
+			}
+			"37"
+			{
+				"origin"		"-3364.03 1035.32 -883.96"
+				"active"		"1"
+			}
+			"38"
+			{
+				"origin"		"-3425.90 994.97 -883.96"
+				"active"		"1"
+			}
+			"39"
+			{
+				"origin"		"-3254.60 725.75 -883.96"
+				"active"		"1"
+			}
+			"40"
+			{
+				"origin"		"-3495.39 740.88 -883.96"
+				"active"		"1"
+			}
+			"41"
+			{
+				"origin"		"-2675.76 875.39 -883.96"
+				"active"		"1"
+			}
+			"42"
+			{
+				"origin"		"-2393.87 850.75 -883.96"
+				"active"		"1"
+			}
+			"43"
+			{
+				"origin"		"-2301.77 962.78 -883.96"
+				"active"		"1"
+			}
+			"44"
+			{
+				"origin"		"-2463.19 879.83 -883.96"
+				"active"		"1"
+			}
+			"45"
+			{
+				"origin"		"-2599.52 983.63 -883.96"
+				"active"		"1"
+			}
+			"46"
+			{
+				"origin"		"-2605.65 1552.95 -1011.96"
+				"active"		"1"
+			}
+			"47"
+			{
+				"origin"		"-2513.15 1418.81 -1011.96"
+				"active"		"1"
+			}
+			"48"
+			{
+				"origin"		"-2406.34 1502.96 -1011.96"
+				"active"		"1"
+			}
+			"49"
+			{
+				"origin"		"-2424.19 1374.46 -1011.96"
+				"active"		"1"
+			}
+			"50"
+			{
+				"origin"		"-2660.04 1229.31 -1018.71"
+				"active"		"1"
+			}
+			"51"
+			{
+				"origin"		"-3049.13 1428.66 -1011.96"
+				"active"		"1"
+			}
+			"52"
+			{
+				"origin"		"-3221.56 1488.81 -1011.96"
+				"active"		"1"
+			}
+			"53"
+			{
+				"origin"		"-3211.92 1171.06 -947.96"
+				"active"		"1"
+			}
+			"54"
+			{
+				"origin"		"-3244.26 1914.31 -883.96"
+				"active"		"1"
+			}
+			"55"
+			{
+				"origin"		"-3154.60 1889.86 -883.96"
+				"active"		"1"
+			}
+			"56"
+			{
+				"origin"		"-2954.88 1906.25 -883.96"
+				"active"		"1"
+			}
+			"57"
+			{
+				"origin"		"-2755.41 1916.02 -883.96"
+				"active"		"1"
+			}
+			"58"
+			{
+				"origin"		"-2602.57 1951.65 -883.96"
+				"active"		"1"
+			}
+			"59"
+			{
+				"origin"		"-2471.78 1908.51 -883.96"
+				"active"		"1"
+			}
+			"60"
+			{
+				"origin"		"-2298.29 1957.66 -883.96"
+				"active"		"1"
+			}
+			"61"
+			{
+				"origin"		"-2049.39 1949.16 -883.96"
+				"active"		"1"
+			}
+			"62"
+			{
+				"origin"		"-2049.84 1793.93 -883.96"
+				"active"		"1"
+			}
+			"63"
+			{
+				"origin"		"-1935.86 1618.75 -883.96"
+				"active"		"1"
+			}
+			"64"
+			{
+				"origin"		"-2269.61 2362.79 -1075.96"
+				"active"		"1"
+			}
+			"65"
+			{
+				"origin"		"-2351.79 2257.39 -1075.96"
+				"active"		"1"
+			}
+			"66"
+			{
+				"origin"		"-2554.01 2151.19 -1099.96"
+				"active"		"1"
+			}
+			"67"
+			{
+				"origin"		"-2520.82 2249.67 -1099.96"
+				"active"		"1"
+			}
+			"68"
+			{
+				"origin"		"-2700.27 2303.91 -1099.96"
+				"active"		"1"
+			}
+			"69"
+			{
+				"origin"		"-2878.06 2152.69 -1075.96"
+				"active"		"1"
+			}
+			"70"
+			{
+				"origin"		"-2704.77 2151.87 -1099.96"
+				"active"		"1"
+			}
+			"71"
+			{
+				"origin"		"-2975.33 2265.69 -1075.96"
+				"active"		"1"
+			}
+			"72"
+			{
+				"origin"		"-2987.61 2124.78 -1075.96"
+				"active"		"1"
+			}
+			"73"
+			{
+				"origin"		"-3125.52 2152.32 -1075.96"
+				"active"		"1"
+			}
+			"74"
+			{
+				"origin"		"-2699.26 2467.69 -1099.96"
+				"active"		"1"
+			}
+			"75"
+			{
+				"origin"		"-2558.41 2490.78 -1099.96"
+				"active"		"1"
+			}
+			"76"
+			{
+				"origin"		"-1905.33 1708.00 -1075.96"
+				"active"		"1"
+			}
+			"77"
+			{
+				"origin"		"-1889.66 1629.35 -1075.96"
+				"active"		"1"
+			}
+			"78"
+			{
+				"origin"		"-1815.42 1452.50 -1075.96"
+				"active"		"1"
+			}
+			"79"
+			{
+				"origin"		"-1985.17 1380.16 -1047.96"
+				"active"		"1"
+			}
+			"80"
+			{
+				"origin"		"-2239.39 1232.00 -1035.96"
+				"active"		"1"
+			}
+			"81"
+			{
+				"origin"		"-2204.78 1619.06 -963.96"
+				"active"		"1"
+			}
+			"82"
+			{
+				"origin"		"-2221.69 1719.96 -915.83"
+				"active"		"1"
+			}
+			"83"
+			{
+				"origin"		"-1999.81 1217.65 -883.96"
+				"active"		"1"
+			}
+			"84"
+			{
+				"origin"		"-2293.34 695.19 -883.96"
+				"active"		"1"
+			}
+			"85"
+			{
+				"origin"		"-2426.27 696.92 -883.96"
+				"active"		"1"
+			}
+		}
+		"B"
+		{
+			"0"
+			{
+				"origin"		"-3131.39 279.44 -883.96"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"-3095.82 -684.33 -883.96"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"-3135.19 53.38 -747.96"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"-2926.50 56.70 -747.96"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"-3566.39 179.50 -747.96"
+				"active"		"1"
+			}
+			"5"
+			{
+				"origin"		"-3433.07 -120.18 -747.96"
+				"active"		"1"
+			}
+			"6"
+			{
+				"origin"		"-2375.87 -375.29 -883.96"
+				"active"		"1"
+			}
+			"7"
+			{
+				"origin"		"-2304.26 -421.26 -883.96"
+				"active"		"1"
+			}
+			"8"
+			{
+				"origin"		"-2392.67 435.17 -883.96"
+				"active"		"1"
+			}
+			"9"
+			{
+				"origin"		"-2321.05 389.20 -883.96"
+				"active"		"1"
+			}
+			"10"
+			{
+				"origin"		"-2895.60 634.00 -883.96"
+				"active"		"1"
+			}
+			"11"
+			{
+				"origin"		"-2823.92 679.96 -883.96"
+				"active"		"1"
+			}
+			"12"
+			{
+				"origin"		"-3155.62 425.00 -883.96"
+				"active"		"1"
+			}
+			"13"
+			{
+				"origin"		"-3084.01 379.01 -883.96"
+				"active"		"1"
+			}
+			"14"
+			{
+				"origin"		"-3664.66 559.69 -883.96"
+				"active"		"1"
+			}
+			"15"
+			{
+				"origin"		"-3593.05 513.73 -883.96"
+				"active"		"1"
+			}
+			"16"
+			{
+				"origin"		"-3580.39 -617.03 -883.96"
+				"active"		"1"
+			}
+			"17"
+			{
+				"origin"		"-3449.09 -677.09 -883.96"
+				"active"		"1"
+			}
+			"18"
+			{
+				"origin"		"-2939.50 -518.25 -883.96"
+				"active"		"1"
+			}
+			"19"
+			{
+				"origin"		"-2867.88 -564.21 -883.96"
+				"active"		"1"
+			}
+			"20"
+			{
+				"origin"		"-2386.66 -581.78 -883.96"
+				"active"		"1"
+			}
+			"21"
+			{
+				"origin"		"-2315.05 -627.75 -883.96"
+				"active"		"1"
+			}
+			"22"
+			{
+				"origin"		"-2827.39 339.91 -883.96"
+				"active"		"1"
+			}
+			"23"
+			{
+				"origin"		"-2814.41 -334.47 -883.96"
+				"active"		"1"
+			}
+			"24"
+			{
+				"origin"		"-3104.19 -286.79 -883.96"
+				"active"		"1"
+			}
+			"25"
+			{
+				"origin"		"-3101.19 -436.29 -883.96"
+				"active"		"1"
+			}
+			"26"
+			{
+				"origin"		"-3423.39 226.36 -747.96"
+				"active"		"1"
+			}
+			"27"
+			{
+				"origin"		"-3378.39 167.18 -747.96"
+				"active"		"1"
+			}
+			"28"
+			{
+				"origin"		"-3046.89 -10.67 -747.96"
+				"active"		"1"
+			}
+			"29"
+			{
+				"origin"		"-3189.89 -7.63 -747.96"
+				"active"		"1"
+			}
+			"30"
+			{
+				"origin"		"-3297.35 -193.02 -747.96"
+				"active"		"1"
+			}
+			"31"
+			{
+				"origin"		"-3438.59 65.75 -747.96"
+				"active"		"1"
+			}
+			"32"
+			{
+				"origin"		"-3639.69 30.94 -747.96"
+				"active"		"1"
+			}
+			"33"
+			{
+				"origin"		"-3681.19 -33.18 -747.96"
+				"active"		"1"
+			}
+			"34"
+			{
+				"origin"		"-3557.39 -51.09 -747.96"
+				"active"		"1"
+			}
+			"35"
+			{
+				"origin"		"-3503.78 -2.75 -747.96"
+				"active"		"1"
+			}
+			"36"
+			{
+				"origin"		"-3561.04 42.84 -747.96"
+				"active"		"1"
+			}
+			"37"
+			{
+				"origin"		"-3382.39 -18.84 -747.96"
+				"active"		"1"
+			}
+			"38"
+			{
+				"origin"		"-3452.89 -206.47 -747.96"
+				"active"		"1"
+			}
+			"39"
+			{
+				"origin"		"-3532.31 -197.77 -747.96"
+				"active"		"1"
+			}
+			"40"
+			{
+				"origin"		"-3547.09 -528.03 -883.96"
+				"active"		"1"
+			}
+			"41"
+			{
+				"origin"		"-3643.25 -542.59 -883.96"
+				"active"		"1"
+			}
+			"42"
+			{
+				"origin"		"-3105.67 -576.20 -883.96"
+				"active"		"1"
+			}
+			"43"
+			{
+				"origin"		"-2414.40 -692.73 -883.96"
+				"active"		"1"
+			}
+			"44"
+			{
+				"origin"		"-2230.33 -832.13 -883.96"
+				"active"		"1"
+			}
+			"45"
+			{
+				"origin"		"-2291.89 -834.73 -883.96"
+				"active"		"1"
+			}
+			"46"
+			{
+				"origin"		"-2447.35 -835.33 -883.96"
+				"active"		"1"
+			}
+			"47"
+			{
+				"origin"		"-2239.39 -885.29 -883.96"
+				"active"		"1"
+			}
+			"48"
+			{
+				"origin"		"-2253.19 -966.83 -883.96"
+				"active"		"1"
+			}
+			"49"
+			{
+				"origin"		"-2357.86 -1007.26 -883.96"
+				"active"		"1"
+			}
+			"50"
+			{
+				"origin"		"-2362.10 -911.33 -883.96"
+				"active"		"1"
+			}
+			"51"
+			{
+				"origin"		"-2434.35 -1024.94 -887.96"
+				"active"		"1"
+			}
+			"52"
+			{
+				"origin"		"-2939.39 -882.63 -883.96"
+				"active"		"1"
+			}
+			"53"
+			{
+				"origin"		"-3048.30 -885.46 -883.96"
+				"active"		"1"
+			}
+			"54"
+			{
+				"origin"		"-3187.07 -871.27 -883.96"
+				"active"		"1"
+			}
+			"55"
+			{
+				"origin"		"-3439.19 -836.13 -883.96"
+				"active"		"1"
+			}
+			"56"
+			{
+				"origin"		"-3349.75 -901.69 -883.96"
+				"active"		"1"
+			}
+			"57"
+			{
+				"origin"		"-3088.30 157.83 -883.96"
+				"active"		"1"
+			}
+			"58"
+			{
+				"origin"		"-2941.58 189.80 -883.96"
+				"active"		"1"
+			}
+			"59"
+			{
+				"origin"		"-2798.28 187.89 -883.96"
+				"active"		"1"
+			}
+			"60"
+			{
+				"origin"		"-2287.56 197.63 -883.96"
+				"active"		"1"
+			}
+			"61"
+			{
+				"origin"		"-2485.85 169.33 -883.96"
+				"active"		"1"
+			}
+			"62"
+			{
+				"origin"		"-2258.17 661.95 -883.96"
+				"active"		"1"
+			}
+			"63"
+			{
+				"origin"		"-2267.39 437.29 -883.96"
+				"active"		"1"
+			}
+			"64"
+			{
+				"origin"		"-2416.15 596.23 -883.96"
+				"active"		"1"
+			}
+			"65"
+			{
+				"origin"		"-2269.60 835.03 -883.96"
+				"active"		"1"
+			}
+			"66"
+			{
+				"origin"		"-2287.39 1002.39 -883.96"
+				"active"		"1"
+			}
+			"67"
+			{
+				"origin"		"-3089.78 -180.18 -883.96"
+				"active"		"1"
+			}
+			"68"
+			{
+				"origin"		"-2902.89 -196.88 -883.96"
+				"active"		"1"
+			}
+			"69"
+			{
+				"origin"		"-3099.66 704.76 -883.96"
+				"active"		"1"
+			}
+			"70"
+			{
+				"origin"		"-2822.66 -142.05 -879.96"
+				"active"		"1"
+			}
+			"71"
+			{
+				"origin"		"-2977.39 -139.37 -883.96"
+				"active"		"1"
+			}
+			"72"
+			{
+				"origin"		"-3282.11 -683.63 -883.96"
+				"active"		"1"
+			}
+			"73"
+			{
+				"origin"		"-3346.50 -673.57 -883.96"
+				"active"		"1"
+			}
+			"74"
+			{
+				"origin"		"-3366.89 -728.83 -883.96"
+				"active"		"1"
+			}
+			"75"
+			{
+				"origin"		"-3641.01 -690.63 -883.96"
+				"active"		"1"
+			}
+			"76"
+			{
+				"origin"		"-3632.13 -247.13 -747.96"
+				"active"		"1"
+			}
+			"77"
+			{
+				"origin"		"-3158.10 -1008.79 -883.96"
+				"active"		"1"
+			}
+			"78"
+			{
+				"origin"		"-2840.19 -975.45 -883.96"
+				"active"		"1"
+			}
+			"79"
+			{
+				"origin"		"-2800.59 -975.90 -883.96"
+				"active"		"1"
+			}
+			"80"
+			{
+				"origin"		"-2745.57 -973.63 -883.96"
+				"active"		"1"
+			}
+			"81"
+			{
+				"origin"		"-3403.16 -680.98 -883.96"
+				"active"		"1"
+			}
+			"82"
+			{
+				"origin"		"-3271.81 242.25 -747.96"
+				"active"		"1"
+			}
+			"83"
+			{
+				"origin"		"-3274.51 174.50 -747.96"
+				"active"		"1"
+			}
+			"84"
+			{
+				"origin"		"-2981.76 479.81 -883.96"
+				"active"		"1"
+			}
+			"85"
+			{
+				"origin"		"-3378.32 -1448.52 -1011.96"
+				"active"		"1"
+			}
+			"86"
+			{
+				"origin"		"-2866.20 -1112.76 -883.96"
+				"active"		"1"
+			}
+			"87"
+			{
+				"origin"		"-3031.36 -1386.43 -1011.96"
+				"active"		"1"
+			}
+		}
+		"C"
+		{
+			"0"
+			{
+				"origin"		"-503.32 -1537.44 -883.96"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"-1878.46 -1340.16 -883.96"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"-1886.32 -1452.15 -883.96"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"-1609.76 -1546.05 -883.96"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"-1394.26 -1624.17 -883.96"
+				"active"		"1"
+			}
+			"5"
+			{
+				"origin"		"-1729.51 -1950.90 -946.99"
+				"active"		"1"
+			}
+			"6"
+			{
+				"origin"		"-2156.19 -1191.46 -1035.96"
+				"active"		"1"
+			}
+			"7"
+			{
+				"origin"		"-2654.40 -1223.55 -1035.96"
+				"active"		"1"
+			}
+			"8"
+			{
+				"origin"		"-2050.90 -1543.86 -1011.96"
+				"active"		"1"
+			}
+			"9"
+			{
+				"origin"		"-2229.19 -1446.41 -1011.96"
+				"active"		"1"
+			}
+			"10"
+			{
+				"origin"		"-1960.16 -1161.16 -883.96"
+				"active"		"1"
+			}
+			"11"
+			{
+				"origin"		"-2422.32 -1954.26 -883.96"
+				"active"		"1"
+			}
+			"12"
+			{
+				"origin"		"-2534.91 -1964.50 -883.96"
+				"active"		"1"
+			}
+			"13"
+			{
+				"origin"		"-2647.08 -1924.01 -883.96"
+				"active"		"1"
+			}
+			"14"
+			{
+				"origin"		"-2694.04 -1994.46 -883.96"
+				"active"		"1"
+			}
+			"15"
+			{
+				"origin"		"-3257.11 -2268.57 -883.96"
+				"active"		"1"
+			}
+			"16"
+			{
+				"origin"		"-2897.88 -2268.91 -883.96"
+				"active"		"1"
+			}
+			"17"
+			{
+				"origin"		"-2717.09 -2254.39 -883.96"
+				"active"		"1"
+			}
+			"18"
+			{
+				"origin"		"-2380.26 -2251.80 -883.96"
+				"active"		"1"
+			}
+			"19"
+			{
+				"origin"		"-2392.89 -2122.08 -883.96"
+				"active"		"1"
+			}
+			"20"
+			{
+				"origin"		"-2692.03 -2126.92 -883.96"
+				"active"		"1"
+			}
+			"21"
+			{
+				"origin"		"-2201.02 -1915.39 -883.96"
+				"active"		"1"
+			}
+			"22"
+			{
+				"origin"		"-2131.75 -1816.14 -883.96"
+				"active"		"1"
+			}
+			"23"
+			{
+				"origin"		"-1937.16 -1785.76 -883.96"
+				"active"		"1"
+			}
+			"24"
+			{
+				"origin"		"-1692.55 -1718.66 -883.96"
+				"active"		"1"
+			}
+			"25"
+			{
+				"origin"		"-1551.42 -1736.76 -883.96"
+				"active"		"1"
+			}
+			"26"
+			{
+				"origin"		"-1031.67 -1695.88 -883.96"
+				"active"		"1"
+			}
+			"27"
+			{
+				"origin"		"-789.63 -1588.86 -883.96"
+				"active"		"1"
+			}
+			"28"
+			{
+				"origin"		"-713.83 -1773.06 -883.96"
+				"active"		"1"
+			}
+			"29"
+			{
+				"origin"		"-720.03 -1637.31 -1075.96"
+				"active"		"1"
+			}
+			"30"
+			{
+				"origin"		"-2162.40 -1731.46 -883.96"
+				"active"		"1"
+			}
+			"31"
+			{
+				"origin"		"-2170.10 -1787.94 -883.96"
+				"active"		"1"
+			}
+			"32"
+			{
+				"origin"		"-2179.91 -1838.83 -883.96"
+				"active"		"1"
+			}
+			"33"
+			{
+				"origin"		"-2094.11 -1730.86 -883.96"
+				"active"		"1"
+			}
+			"34"
+			{
+				"origin"		"-2091.53 -1790.66 -883.96"
+				"active"		"1"
+			}
+			"35"
+			{
+				"origin"		"-2059.58 -1845.86 -883.96"
+				"active"		"1"
+			}
+			"36"
+			{
+				"origin"		"-2133.79 -1889.06 -883.96"
+				"active"		"1"
+			}
+			"37"
+			{
+				"origin"		"-2064.19 -1897.15 -883.96"
+				"active"		"1"
+			}
+			"38"
+			{
+				"origin"		"-1967.85 -1942.26 -883.96"
+				"active"		"1"
+			}
+			"39"
+			{
+				"origin"		"-1957.67 -1859.86 -883.96"
+				"active"		"1"
+			}
+			"40"
+			{
+				"origin"		"-1882.80 -1897.26 -883.96"
+				"active"		"1"
+			}
+			"41"
+			{
+				"origin"		"-1878.89 -1817.51 -883.96"
+				"active"		"1"
+			}
+			"42"
+			{
+				"origin"		"-1892.83 -1712.76 -883.96"
+				"active"		"1"
+			}
+			"43"
+			{
+				"origin"		"-1887.63 -1593.46 -883.96"
+				"active"		"1"
+			}
+			"44"
+			{
+				"origin"		"-1991.76 -1269.14 -883.96"
+				"active"		"1"
+			}
+			"45"
+			{
+				"origin"		"-1644.35 -1604.16 -883.96"
+				"active"		"1"
+			}
+			"46"
+			{
+				"origin"		"-1392.56 -1558.13 -883.96"
+				"active"		"1"
+			}
+			"47"
+			{
+				"origin"		"-1145.56 -1516.04 -883.96"
+				"active"		"1"
+			}
+			"48"
+			{
+				"origin"		"-1169.53 -1595.40 -883.96"
+				"active"		"1"
+			}
+			"49"
+			{
+				"origin"		"-741.96 -1529.66 -883.96"
+				"active"		"1"
+			}
+			"50"
+			{
+				"origin"		"-645.58 -1576.36 -883.96"
+				"active"		"1"
+			}
+			"51"
+			{
+				"origin"		"-520.50 -1667.04 -883.96"
+				"active"		"1"
+			}
+			"52"
+			{
+				"origin"		"-828.23 -1683.56 -883.96"
+				"active"		"1"
+			}
+			"53"
+			{
+				"origin"		"-914.19 -1575.02 -883.96"
+				"active"		"1"
+			}
+			"54"
+			{
+				"origin"		"-630.52 -1677.66 -883.96"
+				"active"		"1"
+			}
+			"55"
+			{
+				"origin"		"-495.11 -1739.06 -883.96"
+				"active"		"1"
+			}
+			"56"
+			{
+				"origin"		"-694.97 -1923.17 -883.96"
+				"active"		"1"
+			}
+			"57"
+			{
+				"origin"		"-140.12 -1743.50 -979.96"
+				"active"		"1"
+			}
+			"58"
+			{
+				"origin"		"-24.51 -1769.96 -979.96"
+				"active"		"1"
+			}
+			"59"
+			{
+				"origin"		"-21.00 -1731.05 -979.96"
+				"active"		"1"
+			}
+			"60"
+			{
+				"origin"		"-138.77 -2006.02 -979.96"
+				"active"		"1"
+			}
+			"61"
+			{
+				"origin"		"134.38 -1746.56 -979.96"
+				"active"		"1"
+			}
+			"62"
+			{
+				"origin"		"-628.48 -1871.50 -883.96"
+				"active"		"1"
+			}
+			"63"
+			{
+				"origin"		"-1133.06 -2285.19 -1075.96"
+				"active"		"1"
+			}
+			"64"
+			{
+				"origin"		"-1588.41 -2305.80 -1075.96"
+				"active"		"1"
+			}
+			"65"
+			{
+				"origin"		"-1621.15 -2083.19 -1075.96"
+				"active"		"1"
+			}
+			"66"
+			{
+				"origin"		"-1147.53 -2076.89 -1075.96"
+				"active"		"1"
+			}
+			"67"
+			{
+				"origin"		"-1479.66 -1841.06 -1075.96"
+				"active"		"1"
+			}
+			"68"
+			{
+				"origin"		"-1903.36 -1692.40 -1075.96"
+				"active"		"1"
+			}
+			"69"
+			{
+				"origin"		"-1906.66 -1535.32 -1075.96"
+				"active"		"1"
+			}
+			"70"
+			{
+				"origin"		"-1750.56 -1347.16 -1075.96"
+				"active"		"1"
+			}
+			"71"
+			{
+				"origin"		"-1617.66 -1292.90 -1075.96"
+				"active"		"1"
+			}
+			"72"
+			{
+				"origin"		"-1543.16 -1352.95 -1075.96"
+				"active"		"1"
+			}
+			"73"
+			{
+				"origin"		"-1263.67 -1871.63 -1075.96"
+				"active"		"1"
+			}
+			"74"
+			{
+				"origin"		"-1011.71 -1888.84 -1075.96"
+				"active"		"1"
+			}
+			"75"
+			{
+				"origin"		"-748.59 -1894.16 -1075.96"
+				"active"		"1"
+			}
+			"76"
+			{
+				"origin"		"-726.96 -1742.16 -1075.96"
+				"active"		"1"
+			}
+			"77"
+			{
+				"origin"		"-541.73 -1841.76 -1075.96"
+				"active"		"1"
+			}
+		}
+		"D"
+		{
+			"0"
+			{
+				"origin"		"1048.50 -2667.91 -987.47"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"952.01 -2827.00 -980.43"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"1283.14 -2828.00 -980.43"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"799.08 -1662.63 -883.96"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"1924.36 -3238.12 -988.00"
+				"active"		"1"
+			}
+			"5"
+			{
+				"origin"		"594.00 -1520.00 -883.96"
+				"active"		"1"
+			}
+			"6"
+			{
+				"origin"		"665.59 -1565.95 -883.96"
+				"active"		"1"
+			}
+			"7"
+			{
+				"origin"		"1082.00 -1598.95 -883.96"
+				"active"		"1"
+			}
+			"8"
+			{
+				"origin"		"750.00 -1988.95 -883.96"
+				"active"		"1"
+			}
+			"9"
+			{
+				"origin"		"531.19 -1958.26 -883.96"
+				"active"		"1"
+			}
+			"10"
+			{
+				"origin"		"602.79 -1912.32 -883.96"
+				"active"		"1"
+			}
+			"11"
+			{
+				"origin"		"1638.90 -2667.27 -987.48"
+				"active"		"1"
+			}
+			"12"
+			{
+				"origin"		"1710.51 -2713.19 -987.09"
+				"active"		"1"
+			}
+			"13"
+			{
+				"origin"		"603.63 -2782.88 -980.00"
+				"active"		"1"
+			}
+			"14"
+			{
+				"origin"		"675.26 -2736.89 -980.00"
+				"active"		"1"
+			}
+			"15"
+			{
+				"origin"		"746.00 -3378.00 -979.96"
+				"active"		"1"
+			}
+			"16"
+			{
+				"origin"		"794.00 -3330.00 -979.96"
+				"active"		"1"
+			}
+			"17"
+			{
+				"origin"		"759.49 -3602.09 -979.96"
+				"active"		"1"
+			}
+			"18"
+			{
+				"origin"		"953.22 -3591.19 -979.96"
+				"active"		"1"
+			}
+			"19"
+			{
+				"origin"		"1128.43 -3805.60 -979.96"
+				"active"		"1"
+			}
+			"20"
+			{
+				"origin"		"1265.52 -3859.80 -979.96"
+				"active"		"1"
+			}
+			"21"
+			{
+				"origin"		"2089.69 -3225.63 -979.99"
+				"active"		"1"
+			}
+			"22"
+			{
+				"origin"		"2155.04 -3229.54 -979.99"
+				"active"		"1"
+			}
+			"23"
+			{
+				"origin"		"1173.66 -2686.84 -987.22"
+				"active"		"1"
+			}
+			"24"
+			{
+				"origin"		"1238.96 -2690.69 -987.13"
+				"active"		"1"
+			}
+			"25"
+			{
+				"origin"		"1128.76 -2936.76 -987.93"
+				"active"		"1"
+			}
+			"26"
+			{
+				"origin"		"1194.06 -2940.66 -987.88"
+				"active"		"1"
+			}
+			"27"
+			{
+				"origin"		"1337.06 -3168.84 -979.96"
+				"active"		"1"
+			}
+			"28"
+			{
+				"origin"		"1402.40 -3172.69 -979.96"
+				"active"		"1"
+			}
+			"29"
+			{
+				"origin"		"968.13 -3183.88 -979.96"
+				"active"		"1"
+			}
+			"30"
+			{
+				"origin"		"1033.46 -3187.79 -979.96"
+				"active"		"1"
+			}
+			"31"
+			{
+				"origin"		"1808.06 -2332.81 -979.96"
+				"active"		"1"
+			}
+			"32"
+			{
+				"origin"		"1829.39 -3376.41 -988.00"
+				"active"		"1"
+			}
+			"33"
+			{
+				"origin"		"1069.51 -1751.16 -883.96"
+				"active"		"1"
+			}
+			"34"
+			{
+				"origin"		"1194.83 -1701.40 -883.96"
+				"active"		"1"
+			}
+			"35"
+			{
+				"origin"		"1195.14 -1744.83 -883.96"
+				"active"		"1"
+			}
+			"36"
+			{
+				"origin"		"1198.96 -1606.04 -883.96"
+				"active"		"1"
+			}
+			"37"
+			{
+				"origin"		"914.72 -1942.36 -883.96"
+				"active"		"1"
+			}
+			"38"
+			{
+				"origin"		"847.33 -2644.62 -987.78"
+				"active"		"1"
+			}
+			"39"
+			{
+				"origin"		"782.77 -2753.52 -987.63"
+				"active"		"1"
+			}
+			"40"
+			{
+				"origin"		"1493.92 -2707.89 -987.03"
+				"active"		"1"
+			}
+			"41"
+			{
+				"origin"		"1139.56 -2826.32 -980.43"
+				"active"		"1"
+			}
+			"42"
+			{
+				"origin"		"1002.82 -2968.14 -987.52"
+				"active"		"1"
+			}
+			"43"
+			{
+				"origin"		"1278.16 -2939.78 -987.89"
+				"active"		"1"
+			}
+			"44"
+			{
+				"origin"		"1992.55 -2441.86 -980.00"
+				"active"		"1"
+			}
+			"45"
+			{
+				"origin"		"1924.92 -2436.91 -980.00"
+				"active"		"1"
+			}
+			"46"
+			{
+				"origin"		"1816.06 -2446.39 -980.00"
+				"active"		"1"
+			}
+			"47"
+			{
+				"origin"		"759.59 -3279.89 -979.96"
+				"active"		"1"
+			}
+			"48"
+			{
+				"origin"		"668.83 -3608.19 -979.96"
+				"active"		"1"
+			}
+			"49"
+			{
+				"origin"		"1170.56 -3461.27 -979.96"
+				"active"		"1"
+			}
+			"50"
+			{
+				"origin"		"1324.36 -3542.09 -979.96"
+				"active"		"1"
+			}
+			"51"
+			{
+				"origin"		"1249.80 -3577.41 -979.96"
+				"active"		"1"
+			}
+			"52"
+			{
+				"origin"		"1326.96 -3769.52 -979.96"
+				"active"		"1"
+			}
+			"53"
+			{
+				"origin"		"1191.16 -3722.02 -979.96"
+				"active"		"1"
+			}
+			"54"
+			{
+				"origin"		"1167.06 -3894.30 -979.96"
+				"active"		"1"
+			}
+			"55"
+			{
+				"origin"		"1271.17 -4014.89 -979.96"
+				"active"		"1"
+			}
+			"56"
+			{
+				"origin"		"1207.94 -4279.88 -949.09"
+				"active"		"1"
+			}
+			"57"
+			{
+				"origin"		"2059.09 -3997.57 -979.99"
+				"active"		"1"
+			}
+			"58"
+			{
+				"origin"		"2250.17 -3915.68 -980.00"
+				"active"		"1"
+			}
+			"59"
+			{
+				"origin"		"2157.19 -3972.40 -980.00"
+				"active"		"1"
+			}
+			"60"
+			{
+				"origin"		"2085.28 -3837.61 -979.99"
+				"active"		"1"
+			}
+			"61"
+			{
+				"origin"		"2075.54 -3463.89 -979.99"
+				"active"		"1"
+			}
+			"62"
+			{
+				"origin"		"2249.34 -3138.79 -979.99"
+				"active"		"1"
+			}
+			"63"
+			{
+				"origin"		"1832.66 -3662.33 -988.00"
+				"active"		"1"
+			}
+			"64"
+			{
+				"origin"		"1640.56 -2935.19 -987.97"
+				"active"		"1"
+			}
+			"65"
+			{
+				"origin"		"1853.85 -2689.39 -987.19"
+				"active"		"1"
+			}
+			"66"
+			{
+				"origin"		"1322.02 -3247.17 -979.96"
+				"active"		"1"
+			}
+			"67"
+			{
+				"origin"		"1253.86 -3322.39 -979.96"
+				"active"		"1"
+			}
+			"68"
+			{
+				"origin"		"1204.45 -3234.83 -979.96"
+				"active"		"1"
+			}
+			"69"
+			{
+				"origin"		"1100.46 -3253.76 -979.96"
+				"active"		"1"
+			}
+			"70"
+			{
+				"origin"		"1141.51 -3336.83 -979.96"
+				"active"		"1"
+			}
+			"71"
+			{
+				"origin"		"1052.16 -3333.19 -979.96"
+				"active"		"1"
+			}
+			"72"
+			{
+				"origin"		"989.29 -3288.39 -979.96"
+				"active"		"1"
+			}
+			"73"
+			{
+				"origin"		"928.38 -3327.16 -979.96"
+				"active"		"1"
+			}
+			"74"
+			{
+				"origin"		"917.13 -3262.27 -979.96"
+				"active"		"1"
+			}
+			"75"
+			{
+				"origin"		"1057.53 -3503.88 -979.96"
+				"active"		"1"
+			}
+			"76"
+			{
+				"origin"		"770.29 -3109.69 -979.96"
+				"active"		"1"
+			}
+			"77"
+			{
+				"origin"		"894.52 -2942.39 -987.83"
+				"active"		"1"
+			}
+			"78"
+			{
+				"origin"		"566.82 -2262.64 -945.99"
+				"active"		"1"
+			}
+		}
+		"E"
+		{
+			"0"
+			{
+				"origin"		"2698.10 -532.72 -683.96"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"2465.79 -368.32 -683.96"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"2212.37 -435.29 -683.96"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"2381.32 189.47 -683.96"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"2694.60 199.47 -683.96"
+				"active"		"1"
+			}
+			"5"
+			{
+				"origin"		"2708.59 -195.38 -683.96"
+				"active"		"1"
+			}
+			"6"
+			{
+				"origin"		"2378.19 367.07 -683.96"
+				"active"		"1"
+			}
+			"7"
+			{
+				"origin"		"2694.83 702.09 -683.96"
+				"active"		"1"
+			}
+			"8"
+			{
+				"origin"		"2367.15 820.96 -883.96"
+				"active"		"1"
+			}
+			"9"
+			{
+				"origin"		"2474.25 558.08 -883.96"
+				"active"		"1"
+			}
+			"10"
+			{
+				"origin"		"2404.13 301.16 -883.96"
+				"active"		"1"
+			}
+			"11"
+			{
+				"origin"		"2349.39 206.63 -883.96"
+				"active"		"1"
+			}
+			"12"
+			{
+				"origin"		"2405.31 -232.07 -883.96"
+				"active"		"1"
+			}
+			"13"
+			{
+				"origin"		"2413.35 -350.04 -883.96"
+				"active"		"1"
+			}
+			"14"
+			{
+				"origin"		"2355.65 -470.00 -883.96"
+				"active"		"1"
+			}
+			"15"
+			{
+				"origin"		"1930.00 536.00 -883.96"
+				"active"		"1"
+			}
+			"16"
+			{
+				"origin"		"1848.16 412.17 -883.96"
+				"active"		"1"
+			}
+			"17"
+			{
+				"origin"		"2202.07 494.97 -683.96"
+				"active"		"1"
+			}
+			"18"
+			{
+				"origin"		"2611.57 688.52 -883.96"
+				"active"		"1"
+			}
+			"19"
+			{
+				"origin"		"2221.82 511.13 -883.96"
+				"active"		"1"
+			}
+			"20"
+			{
+				"origin"		"2137.39 -167.69 -892.00"
+				"active"		"1"
+			}
+			"21"
+			{
+				"origin"		"1856.44 -842.44 -883.96"
+				"active"		"1"
+			}
+			"22"
+			{
+				"origin"		"1848.17 -724.63 -883.96"
+				"active"		"1"
+			}
+			"23"
+			{
+				"origin"		"1944.06 -696.53 -883.96"
+				"active"		"1"
+			}
+			"24"
+			{
+				"origin"		"2375.19 -791.59 -883.96"
+				"active"		"1"
+			}
+			"25"
+			{
+				"origin"		"2427.79 -681.33 -883.96"
+				"active"		"1"
+			}
+			"26"
+			{
+				"origin"		"2551.79 -701.23 -883.96"
+				"active"		"1"
+			}
+			"27"
+			{
+				"origin"		"2607.89 -539.53 -883.96"
+				"active"		"1"
+			}
+			"28"
+			{
+				"origin"		"2475.42 -539.46 -883.96"
+				"active"		"1"
+			}
+			"29"
+			{
+				"origin"		"2566.39 -407.79 -883.96"
+				"active"		"1"
+			}
+			"30"
+			{
+				"origin"		"2527.86 -319.72 -883.96"
+				"active"		"1"
+			}
+			"31"
+			{
+				"origin"		"2739.88 -75.18 -892.00"
+				"active"		"1"
+			}
+			"32"
+			{
+				"origin"		"2598.18 201.22 -883.96"
+				"active"		"1"
+			}
+			"33"
+			{
+				"origin"		"2563.69 370.04 -883.96"
+				"active"		"1"
+			}
+			"34"
+			{
+				"origin"		"2445.15 398.76 -883.96"
+				"active"		"1"
+			}
+			"35"
+			{
+				"origin"		"2577.07 528.52 -883.96"
+				"active"		"1"
+			}
+			"36"
+			{
+				"origin"		"2510.30 694.53 -883.96"
+				"active"		"1"
+			}
+			"37"
+			{
+				"origin"		"2390.19 683.79 -883.96"
+				"active"		"1"
+			}
+			"38"
+			{
+				"origin"		"1841.66 321.64 -883.96"
+				"active"		"1"
+			}
+			"39"
+			{
+				"origin"		"2725.10 808.89 -683.96"
+				"active"		"1"
+			}
+			"40"
+			{
+				"origin"		"2378.84 700.69 -683.96"
+				"active"		"1"
+			}
+			"41"
+			{
+				"origin"		"2491.17 566.43 -683.96"
+				"active"		"1"
+			}
+			"42"
+			{
+				"origin"		"2672.00 510.91 -683.96"
+				"active"		"1"
+			}
+			"43"
+			{
+				"origin"		"2548.19 475.73 -683.96"
+				"active"		"1"
+			}
+			"44"
+			{
+				"origin"		"2585.86 373.83 -683.96"
+				"active"		"1"
+			}
+			"45"
+			{
+				"origin"		"2714.57 374.83 -683.96"
+				"active"		"1"
+			}
+			"46"
+			{
+				"origin"		"2500.03 179.33 -683.96"
+				"active"		"1"
+			}
+			"47"
+			{
+				"origin"		"2266.32 545.48 -683.96"
+				"active"		"1"
+			}
+			"48"
+			{
+				"origin"		"2245.69 388.41 -683.96"
+				"active"		"1"
+			}
+			"49"
+			{
+				"origin"		"2262.09 227.77 -683.96"
+				"active"		"1"
+			}
+			"50"
+			{
+				"origin"		"2262.68 17.59 -683.96"
+				"active"		"1"
+			}
+			"51"
+			{
+				"origin"		"2238.19 -232.15 -683.96"
+				"active"		"1"
+			}
+			"52"
+			{
+				"origin"		"2404.79 -525.09 -683.96"
+				"active"		"1"
+			}
+			"53"
+			{
+				"origin"		"2408.39 -658.21 -683.96"
+				"active"		"1"
+			}
+			"54"
+			{
+				"origin"		"2518.68 -674.94 -683.96"
+				"active"		"1"
+			}
+			"55"
+			{
+				"origin"		"2557.50 -519.73 -683.96"
+				"active"		"1"
+			}
+			"56"
+			{
+				"origin"		"2705.07 -375.73 -683.96"
+				"active"		"1"
+			}
+			"57"
+			{
+				"origin"		"2625.61 -665.33 -683.96"
+				"active"		"1"
+			}
+			"58"
+			{
+				"origin"		"2721.79 -693.33 -683.96"
+				"active"		"1"
+			}
+			"59"
+			{
+				"origin"		"2713.68 -782.39 -683.96"
+				"active"		"1"
+			}
+			"60"
+			{
+				"origin"		"1766.00 -771.23 -883.96"
+				"active"		"1"
+			}
+			"61"
+			{
+				"origin"		"1632.16 -768.97 -883.96"
+				"active"		"1"
+			}
+			"62"
+			{
+				"origin"		"1495.66 -776.92 -883.96"
+				"active"		"1"
+			}
+			"63"
+			{
+				"origin"		"2035.45 -703.13 -883.96"
+				"active"		"1"
+			}
+			"64"
+			{
+				"origin"		"2719.89 -1.79 -683.96"
+				"active"		"1"
+			}
+			"65"
+			{
+				"origin"		"2138.76 108.94 -892.00"
+				"active"		"1"
+			}
+			"66"
+			{
+				"origin"		"1879.56 137.55 -899.41"
+				"active"		"1"
+			}
+			"67"
+			{
+				"origin"		"1756.56 -197.05 -921.95"
+				"active"		"1"
+			}
+			"68"
+			{
+				"origin"		"1722.54 177.88 -928.19"
+				"active"		"1"
+			}
+			"69"
+			{
+				"origin"		"1567.14 130.88 -952.69"
+				"active"		"1"
+			}
+			"70"
+			{
+				"origin"		"1558.66 -21.44 -954.23"
+				"active"		"1"
+			}
+			"71"
+			{
+				"origin"		"855.82 321.44 -1076.00"
+				"active"		"1"
+			}
+			"72"
+			{
+				"origin"		"2087.84 -27.04 -891.99"
+				"active"		"1"
+			}
+			"73"
+			{
+				"origin"		"2284.95 -42.29 -892.00"
+				"active"		"1"
+			}
+			"74"
+			{
+				"origin"		"2412.19 42.09 -892.00"
+				"active"		"1"
+			}
+			"75"
+			{
+				"origin"		"2506.93 -52.88 -892.00"
+				"active"		"1"
+			}
+			"76"
+			{
+				"origin"		"2548.59 42.38 -892.00"
+				"active"		"1"
+			}
+			"77"
+			{
+				"origin"		"2649.43 -25.28 -892.00"
+				"active"		"1"
+			}
+			"78"
+			{
+				"origin"		"2660.30 66.61 -892.00"
+				"active"		"1"
+			}
+			"79"
+			{
+				"origin"		"2580.89 436.64 -883.96"
+				"active"		"1"
+			}
+			"80"
+			{
+				"origin"		"1854.52 543.69 -883.96"
+				"active"		"1"
+			}
+		}
+		"F"
+		{
+			"0"
+			{
+				"origin"		"-295.51 520.13 -1076.00"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"-520.73 321.41 -1076.00"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"-790.13 170.38 -1076.00"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"-807.75 -350.04 -1076.00"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"-534.77 -278.77 -1076.00"
+				"active"		"1"
+			}
+			"5"
+			{
+				"origin"		"-521.23 15.31 -1076.00"
+				"active"		"1"
+			}
+			"6"
+			{
+				"origin"		"-333.74 -481.19 -1076.00"
+				"active"		"1"
+			}
+			"7"
+			{
+				"origin"		"225.05 -273.29 -1022.71"
+				"active"		"1"
+			}
+			"8"
+			{
+				"origin"		"74.35 0.00 -979.43"
+				"active"		"1"
+			}
+			"9"
+			{
+				"origin"		"-285.44 200.00 -1016.94"
+				"active"		"1"
+			}
+			"10"
+			{
+				"origin"		"726.07 -332.54 -1076.00"
+				"active"		"1"
+			}
+			"11"
+			{
+				"origin"		"-248.15 -239.00 -1015.63"
+				"active"		"1"
+			}
+			"12"
+			{
+				"origin"		"217.05 -704.76 -1076.00"
+				"active"		"1"
+			}
+			"13"
+			{
+				"origin"		"-473.77 646.83 -1076.00"
+				"active"		"1"
+			}
+			"14"
+			{
+				"origin"		"-442.16 743.21 -1076.00"
+				"active"		"1"
+			}
+			"15"
+			{
+				"origin"		"73.87 509.10 -1076.00"
+				"active"		"1"
+			}
+			"16"
+			{
+				"origin"		"538.47 358.04 -1076.00"
+				"active"		"1"
+			}
+			"17"
+			{
+				"origin"		"601.50 -229.88 -1076.00"
+				"active"		"1"
+			}
+			"18"
+			{
+				"origin"		"593.42 -68.35 -1076.00"
+				"active"		"1"
+			}
+			"19"
+			{
+				"origin"		"102.61 -513.52 -1076.00"
+				"active"		"1"
+			}
+			"20"
+			{
+				"origin"		"-70.45 -509.57 -1076.00"
+				"active"		"1"
+			}
+			"21"
+			{
+				"origin"		"-26.34 -884.93 -1076.00"
+				"active"		"1"
+			}
+			"22"
+			{
+				"origin"		"-81.01 -881.76 -1076.00"
+				"active"		"1"
+			}
+			"23"
+			{
+				"origin"		"-304.07 -522.63 -1076.00"
+				"active"		"1"
+			}
+			"24"
+			{
+				"origin"		"-476.04 -369.44 -1076.00"
+				"active"		"1"
+			}
+			"25"
+			{
+				"origin"		"-568.53 -190.19 -1076.00"
+				"active"		"1"
+			}
+			"26"
+			{
+				"origin"		"-542.89 -92.11 -1076.00"
+				"active"		"1"
+			}
+			"27"
+			{
+				"origin"		"-524.13 89.88 -1076.00"
+				"active"		"1"
+			}
+			"28"
+			{
+				"origin"		"-534.63 229.77 -1076.00"
+				"active"		"1"
+			}
+			"29"
+			{
+				"origin"		"-474.01 410.25 -1076.00"
+				"active"		"1"
+			}
+			"30"
+			{
+				"origin"		"-777.46 239.87 -1076.00"
+				"active"		"1"
+			}
+			"31"
+			{
+				"origin"		"-946.40 9.89 -1063.96"
+				"active"		"1"
+			}
+			"32"
+			{
+				"origin"		"-946.72 60.18 -1063.96"
+				"active"		"1"
+			}
+			"33"
+			{
+				"origin"		"-929.50 -36.59 -1063.96"
+				"active"		"1"
+			}
+			"34"
+			{
+				"origin"		"-942.47 -188.97 -1063.96"
+				"active"		"1"
+			}
+			"35"
+			{
+				"origin"		"-1004.53 -297.79 -1063.96"
+				"active"		"1"
+			}
+			"36"
+			{
+				"origin"		"-1175.34 -227.86 -981.40"
+				"active"		"1"
+			}
+			"37"
+			{
+				"origin"		"-1144.06 59.08 -981.29"
+				"active"		"1"
+			}
+			"38"
+			{
+				"origin"		"-1194.25 245.27 -981.42"
+				"active"		"1"
+			}
+			"39"
+			{
+				"origin"		"-739.19 391.01 -1076.00"
+				"active"		"1"
+			}
+			"40"
+			{
+				"origin"		"-730.25 730.63 -1067.96"
+				"active"		"1"
+			}
+			"41"
+			{
+				"origin"		"128.11 857.13 -1076.00"
+				"active"		"1"
+			}
+			"42"
+			{
+				"origin"		"52.52 840.01 -1076.00"
+				"active"		"1"
+			}
+			"43"
+			{
+				"origin"		"-341.27 25.44 -1014.93"
+				"active"		"1"
+			}
+			"44"
+			{
+				"origin"		"216.97 263.00 -1014.59"
+				"active"		"1"
+			}
+			"45"
+			{
+				"origin"		"-127.08 282.72 -1005.98"
+				"active"		"1"
+			}
+			"46"
+			{
+				"origin"		"-247.88 -118.08 -997.00"
+				"active"		"1"
+			}
+			"47"
+			{
+				"origin"		"-93.18 -273.04 -1000.33"
+				"active"		"1"
+			}
+			"48"
+			{
+				"origin"		"34.29 -305.07 -1005.13"
+				"active"		"1"
+			}
+			"49"
+			{
+				"origin"		"294.64 -157.33 -1012.63"
+				"active"		"1"
+			}
+			"50"
+			{
+				"origin"		"28.11 306.44 -1005.33"
+				"active"		"1"
+			}
+			"51"
+			{
+				"origin"		"-85.55 -16.13 -979.43"
+				"active"		"1"
+			}
+			"52"
+			{
+				"origin"		"-28.84 -90.86 -979.43"
+				"active"		"1"
+			}
+			"53"
+			{
+				"origin"		"-67.25 59.68 -979.43"
+				"active"		"1"
+			}
+			"54"
+			{
+				"origin"		"28.70 92.35 -979.43"
+				"active"		"1"
+			}
+			"55"
+			{
+				"origin"		"-1042.02 387.80 -1053.96"
+				"active"		"1"
+			}
+			"56"
+			{
+				"origin"		"-1071.16 426.10 -1043.96"
+				"active"		"1"
+			}
+			"57"
+			{
+				"origin"		"-1094.67 457.50 -1033.96"
+				"active"		"1"
+			}
+			"58"
+			{
+				"origin"		"-1031.86 -379.79 -1053.96"
+				"active"		"1"
+			}
+			"59"
+			{
+				"origin"		"-1086.65 -457.79 -1033.96"
+				"active"		"1"
+			}
+			"60"
+			{
+				"origin"		"-1061.75 -432.23 -1043.96"
+				"active"		"1"
+			}
+			"61"
+			{
+				"origin"		"-1011.45 -334.61 -1063.96"
+				"active"		"1"
+			}
+			"62"
+			{
+				"origin"		"-760.59 -393.54 -1072.00"
+				"active"		"1"
+			}
+			"63"
+			{
+				"origin"		"843.57 -360.73 -1076.00"
+				"active"		"1"
+			}
+			"64"
+			{
+				"origin"		"861.83 -286.16 -1076.00"
+				"active"		"1"
+			}
+			"65"
+			{
+				"origin"		"850.58 -202.58 -1076.00"
+				"active"		"1"
+			}
+			"66"
+			{
+				"origin"		"757.23 -19.44 -1076.00"
+				"active"		"1"
+			}
+			"67"
+			{
+				"origin"		"727.47 48.59 -1076.00"
+				"active"		"1"
+			}
+			"68"
+			{
+				"origin"		"819.03 224.35 -1076.00"
+				"active"		"1"
+			}
+			"69"
+			{
+				"origin"		"851.63 275.61 -1076.00"
+				"active"		"1"
+			}
+			"70"
+			{
+				"origin"		"558.29 275.44 -1076.00"
+				"active"		"1"
+			}
+			"71"
+			{
+				"origin"		"815.83 375.57 -1076.00"
+				"active"		"1"
+			}
+			"72"
+			{
+				"origin"		"-462.73 -995.38 -1067.96"
+				"active"		"1"
+			}
+			"73"
+			{
+				"origin"		"-453.04 990.40 -1067.96"
+				"active"		"1"
+			}
+			"74"
+			{
+				"origin"		"-1655.46 -234.89 -883.96"
+				"active"		"1"
+			}
+			"75"
+			{
+				"origin"		"-1650.06 237.33 -883.96"
+				"active"		"1"
+			}
+			"76"
+			{
+				"origin"		"-407.35 -436.29 -1076.00"
+				"active"		"1"
+			}
+			"77"
+			{
+				"origin"		"-665.21 -786.63 -1067.96"
+				"active"		"1"
+			}
+			"78"
+			{
+				"origin"		"-998.33 340.54 -1063.96"
+				"active"		"1"
+			}
+			"79"
+			{
+				"origin"		"-997.14 294.83 -1063.96"
+				"active"		"1"
+			}
+		}
+		"G"
+		{
+			"0"
+			{
+				"origin"		"-2116.77 -482.64 -883.96"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"-2115.69 -837.57 -883.96"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"-2122.88 -891.48 -883.96"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"-2064.77 -861.63 -883.96"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"-2009.14 -856.08 -883.96"
+				"active"		"1"
+			}
+			"5"
+			{
+				"origin"		"-2116.11 -690.13 -883.96"
+				"active"		"1"
+			}
+			"6"
+			{
+				"origin"		"-2077.62 -648.92 -883.96"
+				"active"		"1"
+			}
+			"7"
+			{
+				"origin"		"-2077.18 -588.83 -883.96"
+				"active"		"1"
+			}
+			"8"
+			{
+				"origin"		"-2110.89 -622.59 -883.96"
+				"active"		"1"
+			}
+			"9"
+			{
+				"origin"		"-2116.78 -555.63 -883.96"
+				"active"		"1"
+			}
+			"10"
+			{
+				"origin"		"-2064.19 -497.70 -883.96"
+				"active"		"1"
+			}
+			"11"
+			{
+				"origin"		"-1964.26 -224.00 -883.96"
+				"active"		"1"
+			}
+			"12"
+			{
+				"origin"		"-1961.06 -316.97 -883.96"
+				"active"		"1"
+			}
+			"13"
+			{
+				"origin"		"-2115.59 469.97 -883.96"
+				"active"		"1"
+			}
+			"14"
+			{
+				"origin"		"-2120.13 527.77 -883.96"
+				"active"		"1"
+			}
+			"15"
+			{
+				"origin"		"-2057.00 573.76 -883.96"
+				"active"		"1"
+			}
+			"16"
+			{
+				"origin"		"-2110.37 578.79 -883.96"
+				"active"		"1"
+			}
+			"17"
+			{
+				"origin"		"-2114.69 639.00 -883.96"
+				"active"		"1"
+			}
+			"18"
+			{
+				"origin"		"-2110.03 692.19 -883.96"
+				"active"		"1"
+			}
+			"19"
+			{
+				"origin"		"-2063.39 660.94 -883.96"
+				"active"		"1"
+			}
+			"20"
+			{
+				"origin"		"-1996.86 674.92 -883.96"
+				"active"		"1"
+			}
+			"21"
+			{
+				"origin"		"-2107.62 842.91 -883.96"
+				"active"		"1"
+			}
+			"22"
+			{
+				"origin"		"-2114.54 905.03 -883.96"
+				"active"		"1"
+			}
+			"23"
+			{
+				"origin"		"-1996.86 858.63 -883.96"
+				"active"		"1"
+			}
+			"24"
+			{
+				"origin"		"-2051.89 866.13 -883.96"
+				"active"		"1"
+			}
+			"25"
+			{
+				"origin"		"-1231.96 1320.31 -883.96"
+				"active"		"1"
+			}
+			"26"
+			{
+				"origin"		"-1147.76 1275.81 -879.96"
+				"active"		"1"
+			}
+			"27"
+			{
+				"origin"		"-1218.06 -1327.65 -883.96"
+				"active"		"1"
+			}
+			"28"
+			{
+				"origin"		"-1173.80 -1259.56 -883.96"
+				"active"		"1"
+			}
+			"29"
+			{
+				"origin"		"-1117.85 -1255.25 -883.96"
+				"active"		"1"
+			}
+			"30"
+			{
+				"origin"		"-1693.88 -279.01 -883.96"
+				"active"		"1"
+			}
+			"31"
+			{
+				"origin"		"-1691.16 -250.38 -883.96"
+				"active"		"1"
+			}
+			"32"
+			{
+				"origin"		"-1664.66 -240.52 -883.96"
+				"active"		"1"
+			}
+			"33"
+			{
+				"origin"		"-1667.80 -208.55 -883.96"
+				"active"		"1"
+			}
+			"34"
+			{
+				"origin"		"-1700.96 -219.38 -883.96"
+				"active"		"1"
+			}
+			"35"
+			{
+				"origin"		"-1680.33 350.44 -883.96"
+				"active"		"1"
+			}
+			"36"
+			{
+				"origin"		"-1717.94 333.51 -883.96"
+				"active"		"1"
+			}
+			"37"
+			{
+				"origin"		"-1684.06 306.01 -883.96"
+				"active"		"1"
+			}
+			"38"
+			{
+				"origin"		"-1726.16 296.57 -883.96"
+				"active"		"1"
+			}
+			"39"
+			{
+				"origin"		"-1694.66 252.35 -883.96"
+				"active"		"1"
+			}
+			"40"
+			{
+				"origin"		"-1657.05 218.22 -883.96"
+				"active"		"1"
+			}
+			"41"
+			{
+				"origin"		"-1740.76 271.51 -883.96"
+				"active"		"1"
+			}
+			"42"
+			{
+				"origin"		"-1729.51 380.79 -883.96"
+				"active"		"1"
+			}
+			"43"
+			{
+				"origin"		"-1678.94 -313.57 -883.96"
+				"active"		"1"
+			}
+			"44"
+			{
+				"origin"		"-1714.05 -314.97 -883.96"
+				"active"		"1"
+			}
+			"45"
+			{
+				"origin"		"-1693.06 -360.72 -883.96"
+				"active"		"1"
+			}
+			"46"
+			{
+				"origin"		"-1004.78 303.32 -1063.96"
+				"active"		"1"
+			}
+			"47"
+			{
+				"origin"		"-1007.01 348.31 -1063.96"
+				"active"		"1"
+			}
+			"48"
+			{
+				"origin"		"-1042.46 385.67 -1053.96"
+				"active"		"1"
+			}
+			"49"
+			{
+				"origin"		"-1064.46 433.94 -1043.96"
+				"active"		"1"
+			}
+			"50"
+			{
+				"origin"		"-1091.34 472.50 -1033.96"
+				"active"		"1"
+			}
+			"51"
+			{
+				"origin"		"-1032.56 -390.31 -1053.96"
+				"active"		"1"
+			}
+			"52"
+			{
+				"origin"		"-1064.81 -428.27 -1043.96"
+				"active"		"1"
+			}
+			"53"
+			{
+				"origin"		"-1091.76 -466.44 -1033.96"
+				"active"		"1"
+			}
+			"54"
+			{
+				"origin"		"-998.29 -337.67 -1063.96"
+				"active"		"1"
+			}
+			"55"
+			{
+				"origin"		"-994.47 -298.23 -1059.96"
+				"active"		"1"
+			}
+			"56"
+			{
+				"origin"		"-1753.84 1364.25 -883.96"
+				"active"		"1"
+			}
+			"57"
+			{
+				"origin"		"-1756.19 -1361.69 -883.96"
+				"active"		"1"
+			}
+		}
+		"H"
+		{
+			"0"
+			{
+				"origin"		"-333.72 168.13 -1028.91"
+				"active"		"1"
+			}
+			"1"
+			{
+				"origin"		"-300.51 203.19 -1025.42"
+				"active"		"1"
+			}
+			"2"
+			{
+				"origin"		"-250.58 251.38 -1022.92"
+				"active"		"1"
+			}
+			"3"
+			{
+				"origin"		"-179.38 311.79 -1024.43"
+				"active"		"1"
+			}
+			"4"
+			{
+				"origin"		"-92.90 364.97 -1029.86"
+				"active"		"1"
+			}
+			"5"
+			{
+				"origin"		"-223.35 -284.69 -1025.14"
+				"active"		"1"
+			}
+			"6"
+			{
+				"origin"		"-152.97 -329.27 -1025.55"
+				"active"		"1"
+			}
+			"7"
+			{
+				"origin"		"-81.98 -374.29 -1031.96"
+				"active"		"1"
+			}
+			"8"
+			{
+				"origin"		"-337.57 -187.15 -1028.86"
+				"active"		"1"
+			}
+			"9"
+			{
+				"origin"		"-297.29 -232.22 -1030.03"
+				"active"		"1"
+			}
+			"10"
+			{
+				"origin"		"-85.25 -452.79 -1061.26"
+				"active"		"1"
+			}
+			"11"
+			{
+				"origin"		"-84.08 -495.79 -1076.00"
+				"active"		"1"
+			}
+			"12"
+			{
+				"origin"		"-102.85 -530.13 -1076.00"
+				"active"		"1"
+			}
+			"13"
+			{
+				"origin"		"-56.68 409.34 -1038.26"
+				"active"		"1"
+			}
+			"14"
+			{
+				"origin"		"-68.04 458.82 -1058.96"
+				"active"		"1"
+			}
+			"15"
+			{
+				"origin"		"-82.68 495.91 -1076.00"
+				"active"		"1"
+			}
+			"16"
+			{
+				"origin"		"-115.08 533.89 -1076.00"
+				"active"		"1"
+			}
+			"17"
+			{
+				"origin"		"-674.13 412.29 -1076.00"
+				"active"		"1"
+			}
+			"18"
+			{
+				"origin"		"-557.53 402.79 -1076.00"
+				"active"		"1"
+			}
+			"19"
+			{
+				"origin"		"-656.32 579.63 -1076.00"
+				"active"		"1"
+			}
+			"20"
+			{
+				"origin"		"-563.13 547.29 -1076.00"
+				"active"		"1"
+			}
+			"21"
+			{
+				"origin"		"-459.51 484.14 -1076.00"
+				"active"		"1"
+			}
+			"22"
+			{
+				"origin"		"-497.51 668.83 -1076.00"
+				"active"		"1"
+			}
+			"23"
+			{
+				"origin"		"-572.59 685.39 -1076.00"
+				"active"		"1"
+			}
+			"24"
+			{
+				"origin"		"-665.57 765.28 -1067.96"
+				"active"		"1"
+			}
+			"25"
+			{
+				"origin"		"-547.79 885.33 -1067.96"
+				"active"		"1"
+			}
+			"26"
+			{
+				"origin"		"-457.20 769.28 -1076.00"
+				"active"		"1"
+			}
+			"27"
+			{
+				"origin"		"-309.41 826.43 -1076.00"
+				"active"		"1"
+			}
+			"28"
+			{
+				"origin"		"-257.04 546.69 -1076.00"
+				"active"		"1"
+			}
+			"29"
+			{
+				"origin"		"-185.47 626.33 -1076.00"
+				"active"		"1"
+			}
+			"30"
+			{
+				"origin"		"-248.00 728.89 -1076.00"
+				"active"		"1"
+			}
+			"31"
+			{
+				"origin"		"-260.47 773.21 -1076.00"
+				"active"		"1"
+			}
+			"32"
+			{
+				"origin"		"-227.68 698.79 -1076.00"
+				"active"		"1"
+			}
+			"33"
+			{
+				"origin"		"-134.25 821.51 -1076.00"
+				"active"		"1"
+			}
+			"34"
+			{
+				"origin"		"-62.90 692.59 -1076.00"
+				"active"		"1"
+			}
+			"35"
+			{
+				"origin"		"40.61 570.29 -1076.00"
+				"active"		"1"
+			}
+			"36"
+			{
+				"origin"		"-523.33 -576.03 -1076.00"
+				"active"		"1"
+			}
+			"37"
+			{
+				"origin"		"-445.73 -482.01 -1076.00"
+				"active"		"1"
+			}
+			"38"
+			{
+				"origin"		"-643.45 -794.89 -1067.96"
+				"active"		"1"
+			}
+			"39"
+			{
+				"origin"		"-549.72 -699.33 -1076.00"
+				"active"		"1"
+			}
+			"40"
+			{
+				"origin"		"-539.83 -896.63 -1067.96"
+				"active"		"1"
+			}
+			"41"
+			{
+				"origin"		"-392.79 -776.33 -1076.00"
+				"active"		"1"
+			}
+			"42"
+			{
+				"origin"		"-238.50 -837.89 -1076.00"
+				"active"		"1"
+			}
+			"43"
+			{
+				"origin"		"-346.24 -636.28 -1076.00"
+				"active"		"1"
+			}
+			"44"
+			{
+				"origin"		"-177.47 -628.69 -1076.00"
+				"active"		"1"
+			}
+			"45"
+			{
+				"origin"		"-305.14 -532.03 -1076.00"
+				"active"		"1"
+			}
+			"46"
+			{
+				"origin"		"-233.88 -747.49 -1076.00"
+				"active"		"1"
+			}
+			"47"
+			{
+				"origin"		"-385.31 -889.63 -1067.96"
+				"active"		"1"
+			}
+			"48"
+			{
+				"origin"		"338.04 -192.07 -1033.69"
+				"active"		"1"
+			}
+			"49"
+			{
+				"origin"		"314.07 -223.40 -1032.66"
+				"active"		"1"
+			}
+			"50"
+			{
+				"origin"		"384.17 -23.54 -995.96"
+				"active"		"1"
+			}
+			"51"
+			{
+				"origin"		"383.50 2.92 -995.96"
+				"active"		"1"
+			}
+			"52"
+			{
+				"origin"		"383.50 28.59 -995.96"
+				"active"		"1"
+			}
+			"53"
+			{
+				"origin"		"341.64 205.19 -1037.07"
+				"active"		"1"
+			}
+			"54"
+			{
+				"origin"		"323.33 228.97 -1036.35"
+				"active"		"1"
+			}
+			"55"
+			{
+				"origin"		"1.94 -642.73 -1076.00"
+				"active"		"1"
+			}
+			"56"
+			{
+				"origin"		"139.08 -788.91 -1076.00"
+				"active"		"1"
+			}
+			"57"
+			{
+				"origin"		"186.77 -601.26 -1076.00"
+				"active"		"1"
+			}
+			"58"
+			{
+				"origin"		"211.82 639.63 -1076.00"
+				"active"		"1"
+			}
+			"59"
+			{
+				"origin"		"150.19 843.97 -1076.00"
+				"active"		"1"
+			}
+			"60"
+			{
+				"origin"		"90.61 813.33 -1076.00"
+				"active"		"1"
+			}
+			"61"
+			{
+				"origin"		"448.71 -418.69 -1076.00"
+				"active"		"1"
+			}
+			"62"
+			{
+				"origin"		"513.63 -354.81 -1076.00"
+				"active"		"1"
+			}
+			"63"
+			{
+				"origin"		"562.63 -264.10 -1076.00"
+				"active"		"1"
+			}
+			"64"
+			{
+				"origin"		"565.93 170.18 -1076.00"
+				"active"		"1"
+			}
+			"65"
+			{
+				"origin"		"526.91 271.16 -1076.00"
+				"active"		"1"
+			}
+			"66"
+			{
+				"origin"		"477.54 368.47 -1076.00"
+				"active"		"1"
+			}
+			"67"
+			{
+				"origin"		"413.30 442.79 -1076.00"
+				"active"		"1"
+			}
+			"68"
+			{
+				"origin"		"-651.26 36.59 -1076.00"
+				"active"		"1"
+			}
+			"69"
+			{
+				"origin"		"-634.03 79.90 -1076.00"
+				"active"		"1"
+			}
+			"70"
+			{
+				"origin"		"-627.70 120.15 -1076.00"
+				"active"		"1"
+			}
+			"71"
+			{
+				"origin"		"-603.38 189.05 -1076.00"
+				"active"		"1"
+			}
+			"72"
+			{
+				"origin"		"952.73 164.12 -1069.94"
+				"active"		"1"
+			}
+			"73"
+			{
+				"origin"		"980.99 -164.22 -1064.70"
+				"active"		"1"
+			}
+			"74"
+			{
+				"origin"		"248.08 839.90 -1076.00"
+				"active"		"1"
+			}
+			"75"
+			{
+				"origin"		"772.20 -261.73 -1076.00"
+				"active"		"1"
+			}
+			"76"
+			{
+				"origin"		"772.13 -209.02 -1076.00"
+				"active"		"1"
+			}
+			"77"
+			{
+				"origin"		"771.78 -149.89 -1076.00"
+				"active"		"1"
+			}
+			"78"
+			{
+				"origin"		"771.83 -88.37 -1076.00"
+				"active"		"1"
+			}
+			"79"
+			{
+				"origin"		"811.01 274.71 -1076.00"
+				"active"		"1"
+			}
+			"80"
+			{
+				"origin"		"797.13 320.57 -1076.00"
+				"active"		"1"
+			}
+			"81"
+			{
+				"origin"		"774.50 367.57 -1076.00"
+				"active"		"1"
+			}
+			"82"
+			{
+				"origin"		"743.99 426.51 -1076.00"
+				"active"		"1"
+			}
+			"83"
+			{
+				"origin"		"871.57 48.29 -1076.00"
+				"active"		"1"
+			}
+			"84"
+			{
+				"origin"		"896.09 7.11 -1076.00"
+				"active"		"1"
+			}
+			"85"
+			{
+				"origin"		"1030.70 202.75 -1055.55"
+				"active"		"1"
+			}
+			"86"
+			{
+				"origin"		"1043.96 -171.19 -1053.08"
+				"active"		"1"
+			}
+			"87"
+			{
+				"origin"		"295.57 535.00 -1076.00"
+				"active"		"1"
+			}
+			"88"
+			{
+				"origin"		"362.13 490.41 -1076.00"
+				"active"		"1"
+			}
+			"89"
+			{
+				"origin"		"399.20 -468.27 -1076.00"
+				"active"		"1"
+			}
+			"90"
+			{
+				"origin"		"313.82 -518.92 -1076.00"
+				"active"		"1"
+			}
+			"91"
+			{
+				"origin"		"500.79 -668.90 -1076.00"
+				"active"		"1"
+			}
+			"92"
+			{
+				"origin"		"471.57 -704.07 -1076.00"
+				"active"		"1"
+			}
+			"93"
+			{
+				"origin"		"432.41 -736.07 -1076.00"
+				"active"		"1"
+			}
+			"94"
+			{
+				"origin"		"-784.03 -49.47 -1076.00"
+				"active"		"1"
+			}
+		}
+	}
+}
