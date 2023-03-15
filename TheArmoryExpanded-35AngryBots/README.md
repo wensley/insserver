@@ -1,4 +1,5 @@
 A Guide to Play :: The Armory Modification
+https://www.thearmorymod.com/play-the-armory/host-multiplayer.html
 ------
 1932427377   // The Armory: Expanded - 35 Angry Bots Version | Weapons Expansion
 mp_theater_override "35ab_expansion" 
@@ -14,4 +15,4 @@ mp_theater_override theater_35angrybots12p_default
 mp_theater_override theater_35angrybots12p_medic_default
 
 18 Player Version (Medic Slot Compatible)
-mp_theater_override theater_35angrybots18p_medic_default![image](https://user-images.githubusercontent.com/4245450/225202050-f19f1328-93e4-4beb-bd27-82b68a9a1aea.png)
+mp_theater_override theater_35angrybots18p_medic_default!
